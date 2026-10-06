@@ -1,5 +1,19 @@
 [
   {
+    "id": "reestr-diskvalificirovannyh-lic-upravlenie-mkd",
+    "short_name": "Дисквалифицированные лица в управлении МКД",
+    "name": "Реестр дисквалифицированных лиц (руководители управляющих организаций многоквартирных домов)",
+    "agency": "Минстрой России",
+    "law": "Жилищный кодекс РФ, ст. 195 ч. 1 и 2",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/licenses/person/search",
+    "check_url": "https://dom.gosuslugi.ru/#!/licenses/person/search",
+    "url": "https://reestr-reestrov.ru/r/reestr-diskvalificirovannyh-lic-upravlenie-mkd/"
+  },
+  {
     "id": "egrip",
     "short_name": "ЕГРИП",
     "name": "Единый государственный реестр индивидуальных предпринимателей",
@@ -126,6 +140,20 @@
     "url": "https://reestr-reestrov.ru/r/nedeystvitelnye-inn-ul/"
   },
   {
+    "id": "perechen-obshcheizvestnyh-tovarnyh-znakov",
+    "short_name": "Общеизвестные товарные знаки",
+    "name": "Перечень общеизвестных в Российской Федерации товарных знаков",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1508 и 1509",
+    "year": 2000,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=WKTM",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=WKTM",
+    "url": "https://reestr-reestrov.ru/r/perechen-obshcheizvestnyh-tovarnyh-znakov/"
+  },
+  {
     "id": "zsk-gruppy-riska-cbr",
     "short_name": "Платформа ЗСК ЦБ (группа риска по ИНН)",
     "name": "Информация об отнесении юридических лиц и индивидуальных предпринимателей к группе риска совершения подозрительных операций (платформа «Знай своего клиента»)",
@@ -138,6 +166,20 @@
     "official_url": "https://www.cbr.ru/counteraction_m_ter/platform_zsk/",
     "check_url": "https://www.cbr.ru/counteraction_m_ter/platform_zsk/proverka-po-inn/",
     "url": "https://reestr-reestrov.ru/r/zsk-gruppy-riska-cbr/"
+  },
+  {
+    "id": "raspredelennyy-reestr-mchd",
+    "short_name": "Распределённый реестр МЧД (ФНС)",
+    "name": "Распределённый реестр машиночитаемых доверенностей ФНС России (единое хранилище МЧД)",
+    "agency": "ФНС России",
+    "law": "63-ФЗ от 06.04.2011 «Об электронной подписи», ст. 17.2, 17.3 и 17.5",
+    "year": 2021,
+    "access": "partial",
+    "has_api": true,
+    "has_opendata": false,
+    "official_url": "https://m4d.nalog.gov.ru/",
+    "check_url": "https://m4d.nalog.gov.ru/emchd/check-status",
+    "url": "https://reestr-reestrov.ru/r/raspredelennyy-reestr-mchd/"
   },
   {
     "id": "rafp",
@@ -168,6 +210,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-garantiruyushchih-postavshchikov/"
   },
   {
+    "id": "gosreestr-geograficheskih-ukazaniy-nmpt",
+    "short_name": "Реестр географических указаний и НМПТ",
+    "name": "Государственный реестр географических указаний и наименований мест происхождения товаров Российской Федерации",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1529 и ст. 1532",
+    "year": 1992,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUGP",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUGP",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-geograficheskih-ukazaniy-nmpt/"
+  },
+  {
     "id": "reestr-diskvalifitsirovannyh-lic",
     "short_name": "Реестр дисквалифицированных лиц",
     "name": "Реестр дисквалифицированных лиц",
@@ -182,6 +238,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-diskvalifitsirovannyh-lic/"
   },
   {
+    "id": "gosreestr-izobreteniy",
+    "short_name": "Реестр изобретений",
+    "name": "Государственный реестр изобретений Российской Федерации",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1393 п. 1",
+    "year": 1992,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUPAT",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUPAT",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-izobreteniy/"
+  },
+  {
     "id": "reestr-licenzij",
     "short_name": "Реестр лицензий",
     "name": "Единый реестр учёта лицензий (сводная система реестров лицензий по видам деятельности)",
@@ -194,6 +264,20 @@
     "official_url": "https://www.consultant.ru/law/podborki/edinyj_reestr_licenzij/",
     "check_url": "https://www.consultant.ru/law/podborki/edinyj_reestr_licenzij/",
     "url": "https://reestr-reestrov.ru/r/reestr-licenzij/"
+  },
+  {
+    "id": "svodnyy-reestr-licenziy-upravlenie-mkd",
+    "short_name": "Реестр лицензий управляющих компаний ЖКХ",
+    "name": "Сводный федеральный реестр лицензий на осуществление предпринимательской деятельности по управлению многоквартирными домами",
+    "agency": "Минстрой России",
+    "law": "Жилищный кодекс РФ, ст. 195 ч. 1 и 2",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/rls-public/licenses",
+    "check_url": "https://dom.gosuslugi.ru/#!/rls-public/licenses",
+    "url": "https://reestr-reestrov.ru/r/svodnyy-reestr-licenziy-upravlenie-mkd/"
   },
   {
     "id": "reestr-msp",
@@ -236,6 +320,34 @@
     "official_url": "https://nco.minjust.gov.ru/ru/registries",
     "check_url": "https://nco.minjust.gov.ru/ru/registries?status=REGISTERED",
     "url": "https://reestr-reestrov.ru/r/reestr-nko/"
+  },
+  {
+    "id": "gosreestr-poleznyh-modeley",
+    "short_name": "Реестр полезных моделей",
+    "name": "Государственный реестр полезных моделей Российской Федерации",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1393 п. 1",
+    "year": 1992,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUPM",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUPM",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-poleznyh-modeley/"
+  },
+  {
+    "id": "gosreestr-promyshlennyh-obrazcov",
+    "short_name": "Реестр промышленных образцов",
+    "name": "Государственный реестр промышленных образцов Российской Федерации",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1393 п. 1",
+    "year": 1992,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUDE",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUDE",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-promyshlennyh-obrazcov/"
   },
   {
     "id": "reestr-sro-bez-upolnomochennogo-organa",
@@ -938,6 +1050,20 @@
     "url": "https://reestr-reestrov.ru/r/svedeniya-o-bankovskih-schetah-fns/"
   },
   {
+    "id": "svodnyy-reestr-uchastnikov-byudzhetnogo-processa",
+    "short_name": "Сводный реестр участников и неучастников бюджетного процесса",
+    "name": "Реестр участников бюджетного процесса, а также юридических лиц, не являющихся участниками бюджетного процесса (Сводный реестр)",
+    "agency": "Федеральное казначейство",
+    "law": "Бюджетный кодекс РФ, ст. 165 и 166.1",
+    "year": 2015,
+    "access": "open",
+    "has_api": true,
+    "has_opendata": false,
+    "official_url": "https://www.budget.gov.ru/бюджет/расходы/реестр-участников-и-неучастников-бюджетного-процесса",
+    "check_url": "https://www.budget.gov.ru/бюджет/расходы/реестр-участников-и-неучастников-бюджетного-процесса",
+    "url": "https://reestr-reestrov.ru/r/svodnyy-reestr-uchastnikov-byudzhetnogo-processa/"
+  },
+  {
     "id": "spisok-nelegalov-cbr",
     "short_name": "Чёрный список ЦБ",
     "name": "Список компаний с выявленными признаками нелегальной деятельности на финансовом рынке",
@@ -1064,6 +1190,20 @@
     "url": "https://reestr-reestrov.ru/r/frmo-frmr/"
   },
   {
+    "id": "bdpn",
+    "short_name": "БДПН (перенесённые мобильные номера)",
+    "name": "База данных перенесённых абонентских номеров (БДПН)",
+    "agency": "Минцифры России",
+    "law": "126-ФЗ от 07.07.2003 «О связи», ст. 44 п. 4",
+    "year": 2013,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.nic-t.ru/bdpn/",
+    "check_url": "https://www.nic-t.ru/bdpn/bdpn-proverka-nomera/",
+    "url": "https://reestr-reestrov.ru/r/bdpn/"
+  },
+  {
     "id": "erir",
     "short_name": "ЕРИР",
     "name": "Единый реестр интернет-рекламы",
@@ -1132,6 +1272,20 @@
     "official_url": "https://www.gosuslugi.ru/itorgs",
     "check_url": "https://www.gosuslugi.ru/itorgs",
     "url": "https://reestr-reestrov.ru/r/reestr-akkreditovannyh-it-organizaciy/"
+  },
+  {
+    "id": "reestr-baz-dannyh",
+    "short_name": "Реестр баз данных (Роспатент)",
+    "name": "Реестр баз данных (государственная регистрация)",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1262",
+    "year": 1992,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rospatent.gov.ru/opendata/7730176088-bd",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=DB",
+    "url": "https://reestr-reestrov.ru/r/reestr-baz-dannyh/"
   },
   {
     "id": "perechen-blogerov",
@@ -1274,6 +1428,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-operatorov-fiskalnyh-dannyh/"
   },
   {
+    "id": "reestr-sistemy-i-plana-numeracii",
+    "short_name": "Реестр плана нумерации (коды и диапазоны номеров)",
+    "name": "Реестр Российской системы и плана нумерации",
+    "agency": "Минцифры России",
+    "law": "126-ФЗ от 07.07.2003 «О связи», ст. 26",
+    "year": 2004,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://opendata.digital.gov.ru/registry/numeric",
+    "check_url": "https://opendata.digital.gov.ru/registry/numeric/downloads/",
+    "url": "https://reestr-reestrov.ru/r/reestr-sistemy-i-plana-numeracii/"
+  },
+  {
     "id": "reestr-programm-evm",
     "short_name": "Реестр программ ЭВМ (Роспатент)",
     "name": "Реестр программ для электронных вычислительных машин (государственная регистрация)",
@@ -1284,7 +1452,7 @@
     "has_api": false,
     "has_opendata": true,
     "official_url": "https://rospatent.gov.ru/opendata/7730176088-evm",
-    "check_url": "https://www.fips.ru/elektronnye-servisy/",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=EVM",
     "url": "https://reestr-reestrov.ru/r/reestr-programm-evm/"
   },
   {
@@ -1328,6 +1496,20 @@
     "official_url": "https://rkn.gov.ru/mass-communications/reestr/media/",
     "check_url": "https://rkn.gov.ru/mass-communications/reestr/media/",
     "url": "https://reestr-reestrov.ru/r/reestr-smi/"
+  },
+  {
+    "id": "reestr-topologiy-ims",
+    "short_name": "Реестр топологий ИМС",
+    "name": "Реестр топологий интегральных микросхем",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1452 п. 5",
+    "year": 1992,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rospatent.gov.ru/opendata/7730176088-tims",
+    "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=TIMS",
+    "url": "https://reestr-reestrov.ru/r/reestr-topologiy-ims/"
   },
   {
     "id": "reestr-udc",
@@ -1498,6 +1680,20 @@
     "url": "https://reestr-reestrov.ru/r/nedeystvitelnye-pasporta/"
   },
   {
+    "id": "reestr-kvalifikacionnyh-attestatov-upravlenie-mkd",
+    "short_name": "Квалификационные аттестаты управляющих МКД",
+    "name": "Реестр квалификационных аттестатов на право управления многоквартирными домами",
+    "agency": "Минстрой России",
+    "law": "Жилищный кодекс РФ, ст. 202",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/rka-public/",
+    "check_url": "https://dom.gosuslugi.ru/#!/rka-public/",
+    "url": "https://reestr-reestrov.ru/r/reestr-kvalifikacionnyh-attestatov-upravlenie-mkd/"
+  },
+  {
     "id": "reestr-advokatov",
     "short_name": "Реестр адвокатов",
     "name": "Единый государственный реестр адвокатов Российской Федерации",
@@ -1580,6 +1776,20 @@
     "official_url": "https://minjust.gov.ru/ru/pages/reestr-notariusov-rossijskoj-federacii/",
     "check_url": "https://minjust.gov.ru/ru/pages/reestr-notariusov-rossijskoj-federacii/",
     "url": "https://reestr-reestrov.ru/r/reestr-notariusov/"
+  },
+  {
+    "id": "reestr-patentnyh-poverennyh",
+    "short_name": "Реестр патентных поверенных",
+    "name": "Реестр патентных поверенных Российской Федерации",
+    "agency": "Роспатент",
+    "law": "316-ФЗ от 30.12.2008 «О патентных поверенных», ст. 7",
+    "year": 2009,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rospatent.gov.ru/ru/patent-attorneys/list",
+    "check_url": "https://rospatent.gov.ru/ru/patent-attorneys/list",
+    "url": "https://reestr-reestrov.ru/r/reestr-patentnyh-poverennyh/"
   },
   {
     "id": "reestr-sro-arbitrazhnyh-upravlyayushchih",
@@ -1722,6 +1932,20 @@
     "url": "https://reestr-reestrov.ru/r/svodnyj-reestr-ocenshchikov/"
   },
   {
+    "id": "gis-zhkh-reestr-obektov-zhilishchnogo-fonda",
+    "short_name": "ГИС ЖКХ (реестр домов)",
+    "name": "Государственная информационная система жилищно-коммунального хозяйства (ГИС ЖКХ): реестр объектов жилищного фонда",
+    "agency": "Минстрой России",
+    "law": "209-ФЗ от 21.07.2014 «О государственной информационной системе жилищно-коммунального хозяйства», ст. 6, ст. 7",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/",
+    "check_url": "https://dom.gosuslugi.ru/#!/houses",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-reestr-obektov-zhilishchnogo-fonda/"
+  },
+  {
     "id": "egrn",
     "short_name": "ЕГРН",
     "name": "Единый государственный реестр недвижимости",
@@ -1748,6 +1972,20 @@
     "official_url": "https://culture.gov.ru/activities/information_systems/edinyy_gosudarstvennyy_reestr_obektov_kulturnogo_naslediya/",
     "check_url": "https://opendata.mkrf.ru/opendata/7705851331-egrkn/",
     "url": "https://reestr-reestrov.ru/r/reestr-obektov-kulturnogo-naslediya/"
+  },
+  {
+    "id": "reestr-upravlyayushchih-organizaciy-opredelennyh-omsu",
+    "short_name": "Перечень УО для временного управления МКД",
+    "name": "Реестр управляющих организаций и решений об определении управляющих организаций (временное управление МКД)",
+    "agency": "Минстрой России",
+    "law": "Жилищный кодекс РФ, ст. 161 ч. 17",
+    "year": 2018,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/tr-mo-pub/registry/organizations",
+    "check_url": "https://dom.gosuslugi.ru/#!/tr-mo-pub/registry/organizations",
+    "url": "https://reestr-reestrov.ru/r/reestr-upravlyayushchih-organizaciy-opredelennyh-omsu/"
   },
   {
     "id": "reestr-transportnyh-sredstv-gibdd",
