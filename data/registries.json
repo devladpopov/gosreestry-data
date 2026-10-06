@@ -1036,6 +1036,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-strahovyh-medorganizaciy-oms/"
   },
   {
+    "id": "reestr-ekspertov-kachestva-medpomoshchi",
+    "short_name": "Реестр экспертов качества медпомощи (ОМС)",
+    "name": "Единый реестр экспертов качества медицинской помощи",
+    "agency": "ФОМС",
+    "law": "326-ФЗ от 29.11.2010 «Об обязательном медицинском страховании в РФ», ст. 40 ч. 7 и 7.1",
+    "year": 2011,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://www.ffoms.gov.ru/documents/registry/",
+    "check_url": "https://www.ffoms.gov.ru/documents/registry/",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-kachestva-medpomoshchi/"
+  },
+  {
     "id": "frmo-frmr",
     "short_name": "ФРМО/ФРМР",
     "name": "Федеральный регистр медицинских организаций и Федеральный регистр медицинских работников",
@@ -1376,7 +1390,7 @@
     "short_name": "ЕГИССО",
     "name": "Единая государственная информационная система социального обеспечения",
     "agency": "Социальный фонд России",
-    "law": "178-ФЗ от 17.07.1999 «О государственной социальной помощи», гл. 2.1",
+    "law": "178-ФЗ от 17.07.1999 «О государственной социальной помощи», гл. 2.2",
     "year": 2017,
     "access": "partial",
     "has_api": true,
