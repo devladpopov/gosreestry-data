@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/devladpopov/gosreestry-data/main/schema/registries.schema.json",
+  "title": "Государственные реестры РФ: паспорт реестра",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id",
+      "short_name",
+      "name",
+      "agency",
+      "law",
+      "year",
+      "access",
+      "has_api",
+      "has_opendata",
+      "official_url",
+      "check_url",
+      "url"
+    ],
+    "properties": {
+      "id": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Постоянный идентификатор реестра (латиница). Карточка на сайте: /r/<id>/",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "short_name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Короткое название, как его ищут люди"
+      },
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Официальное полное название"
+      },
+      "agency": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Ведомство, которое ведёт реестр (короткое название)"
+      },
+      "law": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Основной нормативный акт: номер, дата, название, статья"
+      },
+      "year": {
+        "type": "integer",
+        "minimum": 1700,
+        "maximum": 2100,
+        "description": "Год появления реестра (по первому акту или запуску)"
+      },
+      "access": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Открытость: open (открыт всем), partial (частично), closed (закрыт для публики)",
+        "enum": [
+          "open",
+          "partial",
+          "closed"
+        ]
+      },
+      "has_api": {
+        "type": "boolean",
+        "description": "Есть API или платная машиночитаемая выгрузка"
+      },
+      "has_opendata": {
+        "type": "boolean",
+        "description": "Есть набор открытых данных"
+      },
+      "official_url": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Официальный сайт реестра",
+        "pattern": "^https?://"
+      },
+      "check_url": {
+        "type": [
+          "string",
+          "null"
+        ],
+        "minLength": 1,
+        "pattern": "^https?://",
+        "description": "Где проверить запись на официальном сайте; null, если единой точки проверки нет"
+      },
+      "url": {
+        "type": "string",
+        "minLength": 1,
+        "description": "Карточка реестра на reestr-reestrov.ru",
+        "pattern": "^https?://"
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# CSV хранится как есть: UTF-8 с BOM и CRLF для Excel
+*.csv -text diff
