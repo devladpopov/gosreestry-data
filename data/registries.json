@@ -1,5 +1,19 @@
 [
   {
+    "id": "gir-bo",
+    "short_name": "ГИР БО (бухотчётность организаций, ФНС)",
+    "name": "Государственный информационный ресурс бухгалтерской (финансовой) отчётности",
+    "agency": "ФНС России",
+    "law": "402-ФЗ от 06.12.2011 «О бухгалтерском учёте», ст. 18",
+    "year": 2020,
+    "access": "open",
+    "has_api": true,
+    "has_opendata": false,
+    "official_url": "https://bo.nalog.gov.ru/",
+    "check_url": "https://bo.nalog.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/gir-bo/"
+  },
+  {
     "id": "reestr-diskvalificirovannyh-lic-upravlenie-mkd",
     "short_name": "Дисквалифицированные лица в управлении МКД",
     "name": "Реестр дисквалифицированных лиц (руководители управляющих организаций многоквартирных домов)",
@@ -68,6 +82,20 @@
     "official_url": "https://proverki.gov.ru/",
     "check_url": "https://proverki.gov.ru/",
     "url": "https://reestr-reestrov.ru/r/erknm/"
+  },
+  {
+    "id": "eruz",
+    "short_name": "ЕРУЗ (реестр участников закупок в ЕИС)",
+    "name": "Единый реестр участников закупок",
+    "agency": "Федеральное казначейство",
+    "law": "44-ФЗ от 05.04.2013, ст. 24.2",
+    "year": 2019,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://zakupki.gov.ru/epz/main/public/home.html",
+    "check_url": "https://zakupki.gov.ru/epz/main/public/home.html",
+    "url": "https://reestr-reestrov.ru/r/eruz/"
   },
   {
     "id": "kartoteka-arbitrazhnyh-del",
@@ -2112,6 +2140,20 @@
     "official_url": "https://culture.gov.ru/activities/information_systems/edinyy_gosudarstvennyy_reestr_obektov_kulturnogo_naslediya/",
     "check_url": "https://opendata.mkrf.ru/opendata/7705851331-egrkn/",
     "url": "https://reestr-reestrov.ru/r/reestr-obektov-kulturnogo-naslediya/"
+  },
+  {
+    "id": "egrp-vozdushnye-suda",
+    "short_name": "ЕГРП на воздушные суда (Росавиация)",
+    "name": "Единый государственный реестр прав на воздушные суда и сделок с ними",
+    "agency": "Росавиация",
+    "law": "31-ФЗ от 14.03.2009 «О государственной регистрации прав на воздушные суда и сделок с ними», ст. 6 и 9",
+    "year": 2009,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://favt.gov.ru/dejatelnost-gosudarstvennaja-registracija-vozdushnyh-sudov-edinyj-gosudarstvennyj-reestr/",
+    "check_url": "https://www.gosuslugi.ru/613352",
+    "url": "https://reestr-reestrov.ru/r/egrp-vozdushnye-suda/"
   },
   {
     "id": "gosudarstvennyy-katalog-geograficheskih-nazvaniy",
