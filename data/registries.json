@@ -345,8 +345,8 @@
     "access": "open",
     "has_api": false,
     "has_opendata": false,
-    "official_url": "https://torgi.gov.ru/new/",
-    "check_url": "https://torgi.gov.ru/new/",
+    "official_url": "https://torgi.gov.ru/new/public/rny/reg",
+    "check_url": "https://torgi.gov.ru/new/public/rny/reg/fishery",
     "url": "https://reestr-reestrov.ru/r/reestr-nedobrosovestnyh-uchastnikov-aukcionov-rybolovstvo/"
   },
   {
@@ -2062,7 +2062,7 @@
     "short_name": "Госреестр аэродромов гражданской авиации",
     "name": "Государственный реестр аэродромов и вертодромов гражданской авиации Российской Федерации",
     "agency": "Росавиация",
-    "law": "ФАП «Правила государственной регистрации аэродромов гражданской авиации и вертодромов гражданской авиации», утв. приказом Минтранса России от 19.08.2015 № 251",
+    "law": "Воздушный кодекс РФ, ст. 41 п. 1",
     "year": 2015,
     "access": "open",
     "has_api": false,
