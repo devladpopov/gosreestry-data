@@ -28,6 +28,20 @@
     "url": "https://reestr-reestrov.ru/r/gir-bo/"
   },
   {
+    "id": "gosudarstvennyy-balans-zapasov-poleznyh-iskopaemyh",
+    "short_name": "Госбаланс запасов полезных ископаемых (ГБЗ, Росгеолфонд)",
+    "name": "Государственный баланс запасов полезных ископаемых Российской Федерации",
+    "agency": "Роснедра",
+    "law": "Закон РФ от 21.02.1992 № 2395-1 «О недрах», ст. 31",
+    "year": 1992,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rfgf.ru/info-resursy/gosudarstvennyj-balans",
+    "check_url": "https://rfgf.ru/info-resursy/gosudarstvennyj-balans",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-balans-zapasov-poleznyh-iskopaemyh/"
+  },
+  {
     "id": "reestr-diskvalificirovannyh-lic-upravlenie-mkd",
     "short_name": "Дисквалифицированные лица в управлении МКД",
     "name": "Реестр дисквалифицированных лиц (руководители управляющих организаций многоквартирных домов)",
@@ -96,6 +110,20 @@
     "official_url": "https://egrul.nalog.ru/",
     "check_url": "https://egrul.nalog.ru/",
     "url": "https://reestr-reestrov.ru/r/egrul/"
+  },
+  {
+    "id": "edinyy-reestr-uvedomleniy",
+    "short_name": "Единый реестр уведомлений (ЕРВК)",
+    "name": "Единый реестр уведомлений о начале осуществления отдельных видов предпринимательской деятельности",
+    "agency": "Минэкономразвития России",
+    "law": "294-ФЗ от 26.12.2008, ст. 8 ч. 2 и ч. 8",
+    "year": 2025,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://ervk.gov.ru/public/notices",
+    "check_url": "https://ervk.gov.ru/public/notices",
+    "url": "https://reestr-reestrov.ru/r/edinyy-reestr-uvedomleniy/"
   },
   {
     "id": "erknm",
@@ -418,6 +446,20 @@
     "official_url": "https://service.nalog.ru/disqualified.do",
     "check_url": "https://service.nalog.ru/disqualified.do",
     "url": "https://reestr-reestrov.ru/r/reestr-diskvalifitsirovannyh-lic/"
+  },
+  {
+    "id": "reestr-efgi-geologicheskoy-informacii",
+    "short_name": "Реестр ЕФГИ: геологическая информация о недрах (Росгеолфонд)",
+    "name": "Реестр первичной геологической информации о недрах и интерпретированной геологической информации о недрах единого фонда геологической информации о недрах",
+    "agency": "Роснедра",
+    "law": "Закон РФ от 21.02.1992 № 2395-1 «О недрах», ст. 27.1 и ст. 27",
+    "year": 2020,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rfgf.ru/efgi/reestr-informatsii",
+    "check_url": "https://efgi.ru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-efgi-geologicheskoy-informacii/"
   },
   {
     "id": "reestr-zayavleniy-rasporyazhenie-isklyuchitelnym-pravom",
@@ -854,6 +896,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-socialnyh-predpriyatiy/"
   },
   {
+    "id": "reestr-specrazresheniy-tyazhelovesnyh-ts",
+    "short_name": "Реестр спецразрешений на тяжеловесный и крупногабаритный транспорт",
+    "name": "Федеральный реестр специальных разрешений на движение по автомобильным дорогам тяжеловесного и (или) крупногабаритного транспортного средства",
+    "agency": "Росавтодор",
+    "law": "257-ФЗ от 08.11.2007 «Об автомобильных дорогах и о дорожной деятельности», ст. 31 ч. 6 п. 6, ч. 7 и ч. 23",
+    "year": 2024,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosavtodor.gov.ru/about/upravlenie-fda/upravlenie-ekspluatacii-avtomobilnyh-dorog/dvizhenie-tyazhelovesnykh-i-ili-krupnogabaritnykh-transportnykh-sredstv",
+    "check_url": "https://urm.safe-route.ru/check",
+    "url": "https://reestr-reestrov.ru/r/reestr-specrazresheniy-tyazhelovesnyh-ts/"
+  },
+  {
     "id": "reestr-sro-rostechnadzor",
     "short_name": "Реестр СРО (Ростехнадзор)",
     "name": "Государственный реестр саморегулируемых организаций (в сфере строительства, проектирования, инженерных изысканий)",
@@ -1190,6 +1246,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-stu-pozharnaya-bezopasnost/"
   },
   {
+    "id": "gosreestr-nacionalnyh-filmov",
+    "short_name": "Реестр удостоверений национального фильма (Минкультуры)",
+    "name": "Государственный реестр национальных фильмов",
+    "agency": "Минкультуры России",
+    "law": "Федеральный закон от 22.08.1996 № 126-ФЗ «О государственной поддержке кинематографии Российской Федерации», ст. 4 ч. 3 и 4, ст. 5, ст. 5.1",
+    "year": 2024,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://opendata.mkrf.ru/opendata/7705851331-national_film_identities",
+    "check_url": "https://opendata.mkrf.ru/opendata/7705851331-national_film_identities",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-nacionalnyh-filmov/"
+  },
+  {
     "id": "utverzhdennye-tipy-so",
     "short_name": "Реестр утверждённых типов стандартных образцов",
     "name": "Сведения об утверждённых типах стандартных образцов",
@@ -1202,6 +1272,20 @@
     "official_url": "https://fgis.gost.ru/fundmetrology/registry/19",
     "check_url": "https://fgis.gost.ru/fundmetrology/registry/19",
     "url": "https://reestr-reestrov.ru/r/utverzhdennye-tipy-so/"
+  },
+  {
+    "id": "reestr-ekspertnyh-organizaciy-akkreditaciya",
+    "short_name": "Реестр экспертных организаций Росаккредитации",
+    "name": "Реестр экспертных организаций (национальная система аккредитации)",
+    "agency": "Росаккредитация",
+    "law": "412-ФЗ от 28.12.2013 «Об аккредитации в национальной системе аккредитации», ст. 11, 12 и 26",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://pub.fsa.gov.ru/reo",
+    "check_url": "https://pub.fsa.gov.ru/reo",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertnyh-organizaciy-akkreditaciya/"
   },
   {
     "id": "etalony-edinic-velichin",
@@ -2296,6 +2380,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-udostovereniy-na-upravlenie-malomernym-sudnom/"
   },
   {
+    "id": "reestr-akkreditovannyh-organizaciy-patentnyy-poisk",
+    "short_name": "Аккредитованные организации для патентного поиска (Роспатент)",
+    "name": "Реестр аккредитованных организаций, которые могут проводить предварительный информационный поиск в отношении заявленных изобретений или полезных моделей и предварительную оценку их патентоспособности",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, ст. 1246 п. 3 абз. 2 и 3",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rospatent.gov.ru/ru/activities/akkreditovannye-nauchnye-obrazovatelnye-organizatsii",
+    "check_url": "https://rospatent.gov.ru/ru/activities/akkreditovannye-nauchnye-obrazovatelnye-organizatsii",
+    "url": "https://reestr-reestrov.ru/r/reestr-akkreditovannyh-organizaciy-patentnyy-poisk/"
+  },
+  {
     "id": "reestr-ekspertov-gosudarstvennoy-istoriko-kulturnoy-ekspertizy",
     "short_name": "Аттестованные эксперты ГИКЭ (Минкультуры)",
     "name": "Список физических лиц, которые могут привлекаться в качестве экспертов по проведению государственной историко-культурной экспертизы",
@@ -2394,6 +2492,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-mchs-goskontrol/"
   },
   {
+    "id": "reestr-attestovannyh-ekspertov-roszdravnadzora",
+    "short_name": "Реестр аттестованных экспертов Росздравнадзора",
+    "name": "Реестр экспертов, привлекаемых Федеральной службой по надзору в сфере здравоохранения (территориальными органами) к осуществлению экспертизы в целях государственного контроля (надзора)",
+    "agency": "Росздравнадзор",
+    "law": "248-ФЗ от 31.07.2020 «О государственном контроле (надзоре) и муниципальном контроле в РФ», ст. 33 ч. 1",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://roszdravnadzor.gov.ru/services/experts_register",
+    "check_url": "https://roszdravnadzor.gov.ru/services/experts_register",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ekspertov-roszdravnadzora/"
+  },
+  {
     "id": "reestr-attestovannyh-ekspertov-rosobrnadzora",
     "short_name": "Реестр аттестованных экспертов Рособрнадзора для проверок",
     "name": "Реестр аттестованных экспертов, привлекаемых Рособрнадзором к осуществлению экспертизы в целях государственного контроля (надзора)",
@@ -2420,6 +2532,48 @@
     "official_url": "https://rospatent.gov.ru/content/uploadfiles/reestr_exp.pdf",
     "check_url": "https://rospatent.gov.ru/content/uploadfiles/reestr_exp.pdf",
     "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ekspertov-rospatenta/"
+  },
+  {
+    "id": "reestr-attestovannyh-ekspertov-rosprirodnadzora",
+    "short_name": "Реестр аттестованных экспертов Росприроднадзора",
+    "name": "Реестр аттестованных экспертов, привлекаемых Росприроднадзором (его территориальными органами) к осуществлению экспертизы в целях государственного контроля (надзора)",
+    "agency": "Росприроднадзор",
+    "law": "248-ФЗ от 31.07.2020 «О государственном контроле (надзоре) и муниципальном контроле в РФ», ст. 33 ч. 1",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rpn.gov.ru/activity/supervision/experts/",
+    "check_url": "https://rpn.gov.ru/activity/supervision/experts/",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ekspertov-rosprirodnadzora/"
+  },
+  {
+    "id": "reestr-attestovannyh-ekspertov-rosselhoznadzora",
+    "short_name": "Реестр аттестованных экспертов Россельхознадзора",
+    "name": "Реестр сведений об аттестации экспертов, привлекаемых Россельхознадзором (его территориальными управлениями) к проведению мероприятий по контролю (надзору)",
+    "agency": "Россельхознадзор",
+    "law": "248-ФЗ от 31.07.2020 «О государственном контроле (надзоре) и муниципальном контроле в РФ», ст. 33 ч. 1",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://fsvps.gov.ru/rshnexpert-cat/federalnaja-sluzhba-po-veterinarnomu-i-fitosanitarnomu-nadzoru/",
+    "check_url": "https://fsvps.gov.ru/rshnexpert-cat/federalnaja-sluzhba-po-veterinarnomu-i-fitosanitarnomu-nadzoru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ekspertov-rosselhoznadzora/"
+  },
+  {
+    "id": "reestr-attestovannyh-ekspertov-rostransnadzora",
+    "short_name": "Реестр аттестованных экспертов Ространснадзора",
+    "name": "Реестр экспертов, привлекаемых Федеральной службой по надзору в сфере транспорта и ее территориальными органами к осуществлению экспертизы в целях федерального государственного контроля (надзора), в отношении которых принято решение об аттестации",
+    "agency": "Ространснадзор",
+    "law": "248-ФЗ от 31.07.2020 «О государственном контроле (надзоре) и муниципальном контроле в РФ», ст. 33 ч. 1",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/114",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/114",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ekspertov-rostransnadzora/"
   },
   {
     "id": "reestr-gidov-ekskursovodov",
@@ -2576,6 +2730,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-sro-elektronnyh-ploshchadok/"
   },
   {
+    "id": "reestr-tehnicheskih-ekspertov",
+    "short_name": "Реестр технических экспертов (Росаккредитация)",
+    "name": "Реестр технических экспертов",
+    "agency": "Росаккредитация",
+    "law": "412-ФЗ от 28.12.2013 «Об аккредитации в национальной системе аккредитации», ст. 11, 12 и 26",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://pub.fsa.gov.ru/rte",
+    "check_url": "https://pub.fsa.gov.ru/rte",
+    "url": "https://reestr-reestrov.ru/r/reestr-tehnicheskih-ekspertov/"
+  },
+  {
     "id": "reestr-turoperatorov",
     "short_name": "Реестр туроператоров",
     "name": "Единый федеральный реестр туроператоров",
@@ -2618,6 +2786,62 @@
     "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-akkreditacionnoy-ekspertizy/"
   },
   {
+    "id": "reestr-ekspertov-gts",
+    "short_name": "Реестр экспертов ГТС (Ростехнадзор)",
+    "name": "Реестр экспертов в области безопасности гидротехнических сооружений",
+    "agency": "Ростехнадзор",
+    "law": "117-ФЗ от 21.07.1997 «О безопасности гидротехнических сооружений», ст. 4",
+    "year": 2024,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.gosnadzor.ru/energy/safety/attestatsiya-ekspertov-v-oblasti-bezopasnosti-gidrotekhnicheskikh-sooruzheniy/",
+    "check_url": "https://www.gosnadzor.ru/energy/safety/attestatsiya-ekspertov-v-oblasti-bezopasnosti-gidrotekhnicheskikh-sooruzheniy/",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-gts/"
+  },
+  {
+    "id": "reestr-akkreditovannyh-ekspertov-informacionnoy-produkcii",
+    "short_name": "Реестр экспертов информационной продукции (Роскомнадзор)",
+    "name": "Реестр экспертов и экспертных организаций, аккредитованных на право проведения экспертизы информационной продукции",
+    "agency": "Роскомнадзор",
+    "law": "436-ФЗ от 29.12.2010 «О защите детей от информации, причиняющей вред их здоровью и развитию», ст. 17",
+    "year": 2012,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rkn.gov.ru/opendata/7705846236-AccreditedExpertsMassCommunications/",
+    "check_url": "https://rkn.gov.ru/opendata/7705846236-AccreditedExpertsMassCommunications/",
+    "url": "https://reestr-reestrov.ru/r/reestr-akkreditovannyh-ekspertov-informacionnoy-produkcii/"
+  },
+  {
+    "id": "reestr-ekspertov-po-akkreditacii",
+    "short_name": "Реестр экспертов по аккредитации (Росаккредитация)",
+    "name": "Реестр экспертов по аккредитации",
+    "agency": "Росаккредитация",
+    "law": "412-ФЗ от 28.12.2013 «Об аккредитации в национальной системе аккредитации», ст. 11, 12 и 26",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://pub.fsa.gov.ru/rea",
+    "check_url": "https://pub.fsa.gov.ru/rea",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-po-akkreditacii/"
+  },
+  {
+    "id": "reestr-ekspertov-po-kulturnym-cennostyam",
+    "short_name": "Реестр экспертов по культурным ценностям (Минкультуры)",
+    "name": "Реестр аттестованных экспертов по культурным ценностям",
+    "agency": "Минкультуры России",
+    "law": "Закон РФ от 15.04.1993 № 4804-1 «О вывозе и ввозе культурных ценностей», ст. 11.2 п. 4",
+    "year": 2018,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://culture.gov.ru/about/departments/departament_gosudarstvennoy_okhrany_kulturnogo_naslediya/activities/16197949/",
+    "check_url": "https://opendata.mkrf.ru/opendata/7705851331-experts_cultural",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-po-kulturnym-cennostyam/"
+  },
+  {
     "id": "reestr-ekspertov-prombezopasnost",
     "short_name": "Реестр экспертов промбезопасности",
     "name": "Реестр экспертов в области промышленной безопасности",
@@ -2644,6 +2868,34 @@
     "official_url": "https://rostransnadzor.gov.ru/deyatelnost/113",
     "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
     "url": "https://reestr-reestrov.ru/r/reestr-svidetelstv-dopog-voditeley/"
+  },
+  {
+    "id": "reestr-svidetelstv-dopog-konsultantov",
+    "short_name": "Свидетельства ДОПОГ консультантов по опасным грузам",
+    "name": "Реестр свидетельств о профессиональной подготовке консультантов по вопросам безопасности перевозки опасных грузов автомобильным транспортом (свидетельств ДОПОГ консультантов)",
+    "agency": "Ространснадзор",
+    "law": "Порядок проведения экзамена и выдачи свидетельств о профессиональной подготовке консультантов по вопросам безопасности перевозки опасных грузов автомобильным транспортом, приказ Минтранса России от 28.07.2020 № 257, п. 14-15",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/119",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-svidetelstv-dopog-konsultantov/"
+  },
+  {
+    "id": "reestr-svidetelstv-mashinistov",
+    "short_name": "Свидетельства машинистов (право на управление локомотивом)",
+    "name": "Реестр выданных свидетельств, подтверждающих право на управление курсирующими по железнодорожным путям локомотивом, мотор-вагонным подвижным составом, специальным самоходным подвижным составом и (или) высокоскоростным железнодорожным подвижным составом",
+    "agency": "Ространснадзор",
+    "law": "17-ФЗ от 10.01.2003 «О железнодорожном транспорте в РФ», ст. 25.1 п. 2",
+    "year": 2020,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/120",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-svidetelstv-mashinistov/"
   },
   {
     "id": "svodnyj-reestr-arbitrazhnyh-upravlyayushchih",
@@ -2828,6 +3080,20 @@
     "url": "https://reestr-reestrov.ru/r/egrp-vozdushnye-suda/"
   },
   {
+    "id": "gosudarstvennyy-kadastr-mestorozhdeniy-i-proyavleniy",
+    "short_name": "Кадастр месторождений полезных ископаемых (ГКМ, Росгеолфонд)",
+    "name": "Государственный кадастр месторождений и проявлений полезных ископаемых",
+    "agency": "Роснедра",
+    "law": "Закон РФ от 21.02.1992 № 2395-1 «О недрах», ст. 30",
+    "year": 1992,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rfgf.ru/info-resursy/gosudarstvennyj-balans",
+    "check_url": "https://rfgf.ru/info-resursy/gosudarstvennyj-balans",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-kadastr-mestorozhdeniy-i-proyavleniy/"
+  },
+  {
     "id": "gosudarstvennyy-katalog-geograficheskih-nazvaniy",
     "short_name": "Каталог географических названий (ГКГН)",
     "name": "Государственный каталог географических названий",
@@ -2882,6 +3148,20 @@
     "official_url": "https://гибдд.рф/",
     "check_url": "https://www.gosuslugi.ru/",
     "url": "https://reestr-reestrov.ru/r/reestr-transportnyh-sredstv-gibdd/"
+  },
+  {
+    "id": "gis-zhkh-reestr-programm-v-sfere-zhkh",
+    "short_name": "Программы в сфере ЖКХ: переселение, модернизация, энергосбережение (ГИС ЖКХ)",
+    "name": "Реестр программ в сфере ЖКХ в ГИС ЖКХ",
+    "agency": "Минстрой России",
+    "law": "209-ФЗ от 21.07.2014 «О государственной информационной системе жилищно-коммунального хозяйства», ст. 6 ч. 1 п. 9, п. 13, п. 17",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/programs/list",
+    "check_url": "https://dom.gosuslugi.ru/#!/programs/list",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-reestr-programm-v-sfere-zhkh/"
   },
   {
     "id": "gis-zhkh-programmy-kapremonta",
