@@ -1,5 +1,19 @@
 [
   {
+    "id": "gis-zhkh-reestr-administrativnyh-pravonarusheniy",
+    "short_name": "Административные правонарушения в ЖКХ (ГИС ЖКХ)",
+    "name": "Реестр административных правонарушений ГИС ЖКХ",
+    "agency": "Минстрой России",
+    "law": "209-ФЗ от 21.07.2014 «О государственной информационной системе жилищно-коммунального хозяйства», ст. 6 ч. 1 п. 41, ст. 7 ч. 14 п. 4, ст. 7 ч. 7",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/public/rap-rp",
+    "check_url": "https://dom.gosuslugi.ru/#!/public/rap-rp",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-reestr-administrativnyh-pravonarusheniy/"
+  },
+  {
     "id": "gir-bo",
     "short_name": "ГИР БО (бухотчётность организаций, ФНС)",
     "name": "Государственный информационный ресурс бухгалтерской (финансовой) отчётности",
@@ -26,6 +40,20 @@
     "official_url": "https://dom.gosuslugi.ru/#!/licenses/person/search",
     "check_url": "https://dom.gosuslugi.ru/#!/licenses/person/search",
     "url": "https://reestr-reestrov.ru/r/reestr-diskvalificirovannyh-lic-upravlenie-mkd/"
+  },
+  {
+    "id": "reestr-dopuska-k-mezhdunarodnym-avtoperevozkam",
+    "short_name": "Допуск к международным автоперевозкам",
+    "name": "Реестр российских перевозчиков, допущенных к осуществлению международных автомобильных перевозок",
+    "agency": "Ространснадзор",
+    "law": "127-ФЗ от 24.07.1998 «О государственном контроле за осуществлением международных автомобильных перевозок и отдельных каботажных автомобильных перевозок и об ответственности за нарушение порядка их выполнения», ст. 2 п. 7.2",
+    "year": 1998,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/8",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-dopuska-k-mezhdunarodnym-avtoperevozkam/"
   },
   {
     "id": "egrip",
@@ -126,6 +154,62 @@
     "url": "https://reestr-reestrov.ru/r/statregistr-rosstat/"
   },
   {
+    "id": "gis-zhkh-konkursy-regoperatorov-tko",
+    "short_name": "Конкурсы по отбору регоператоров ТКО (ГИС ЖКХ)",
+    "name": "Реестр информации о конкурсах по отбору региональных операторов по обращению с твёрдыми коммунальными отходами (ГИС ЖКХ)",
+    "agency": "Минстрой России",
+    "law": "89-ФЗ от 24.06.1998 «Об отходах производства и потребления», ст. 24.6 ч. 4 и 5",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/tkoregop",
+    "check_url": "https://dom.gosuslugi.ru/#!/tkoregop",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-konkursy-regoperatorov-tko/"
+  },
+  {
+    "id": "reestr-licenziy-zhd-perevozki-opasnyh-gruzov",
+    "short_name": "Лицензии на ж/д перевозки опасных грузов",
+    "name": "Реестр лицензий на осуществление деятельности по перевозкам железнодорожным транспортом опасных грузов",
+    "agency": "Ространснадзор",
+    "law": "99-ФЗ от 04.05.2011, ст. 12 ч. 1 п. 26",
+    "year": 2011,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenziy-zhd-perevozki-opasnyh-gruzov/"
+  },
+  {
+    "id": "reestr-licenziy-zhd-perevozki-passazhirov",
+    "short_name": "Лицензии на ж/д перевозки пассажиров",
+    "name": "Реестр лицензий на осуществление деятельности по перевозкам железнодорожным транспортом пассажиров",
+    "agency": "Ространснадзор",
+    "law": "99-ФЗ от 04.05.2011 «О лицензировании отдельных видов деятельности», ст. 12 ч. 1 п. 25",
+    "year": 2011,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenziy-zhd-perevozki-passazhirov/"
+  },
+  {
+    "id": "reestr-licenziy-prr-opasnyh-gruzov-zhd",
+    "short_name": "Лицензии на погрузку опасных грузов на ж/д",
+    "name": "Реестр лицензий на погрузочно-разгрузочную деятельность применительно к опасным грузам на железнодорожном транспорте",
+    "agency": "Ространснадзор",
+    "law": "99-ФЗ от 04.05.2011, ст. 12 ч. 1 п. 27",
+    "year": 2011,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenziy-prr-opasnyh-gruzov-zhd/"
+  },
+  {
     "id": "reestr-mayninga",
     "short_name": "МайнингРеестр (ФНС)",
     "name": "Реестр лиц, осуществляющих майнинг цифровой валюты, и реестр операторов майнинговой инфраструктуры",
@@ -138,6 +222,34 @@
     "official_url": "https://rmo.nalog.gov.ru/rmo/about.html",
     "check_url": "https://www.nalog.gov.ru/mining/",
     "url": "https://reestr-reestrov.ru/r/reestr-mayninga/"
+  },
+  {
+    "id": "reestr-mezhdunarodnyh-zayavok-nacfaza",
+    "short_name": "Международные заявки PCT на национальной фазе в РФ",
+    "name": "Реестр международных заявок на изобретение (полезную модель), переведённых на национальную фазу в Российской Федерации",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1396 п. 1",
+    "year": 2024,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://fips.ru/to-applicants/inventions/megdunarodnie-zayavki-iz-pm.php",
+    "check_url": "https://fips.ru/to-applicants/inventions/megdunarodnie-zayavki-iz-pm.php",
+    "url": "https://reestr-reestrov.ru/r/reestr-mezhdunarodnyh-zayavok-nacfaza/"
+  },
+  {
+    "id": "reestr-mezhdunarodnyh-tovarnyh-znakov-dogovory",
+    "short_name": "Международные товарные знаки (Мадрид): лицензии в РФ",
+    "name": "Реестр товарных знаков по международным регистрациям, по которым имеются сведения о зарегистрированных на территории Российской Федерации распоряжениях исключительным правом по договорам о предоставлении права использования",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1232 п. 2 и 3",
+    "year": 2006,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=WOTM",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=WOTM",
+    "url": "https://reestr-reestrov.ru/r/reestr-mezhdunarodnyh-tovarnyh-znakov-dogovory/"
   },
   {
     "id": "nedeystvitelnye-inn-fl",
@@ -180,6 +292,20 @@
     "official_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=WKTM",
     "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=WKTM",
     "url": "https://reestr-reestrov.ru/r/perechen-obshcheizvestnyh-tovarnyh-znakov/"
+  },
+  {
+    "id": "gis-zhkh-perechen-organov-vlasti",
+    "short_name": "Перечень органов власти в ГИС ЖКХ",
+    "name": "Перечень органов власти и государственных внебюджетных фондов, регистрация которых в ГИС ЖКХ осуществляется с использованием квалифицированных сертификатов ключей проверки электронных подписей, выданных Удостоверяющим центром Федерального казначейства",
+    "agency": "Минстрой России",
+    "law": "209-ФЗ от 21.07.2014 «О государственной информационной системе жилищно-коммунального хозяйства», ст. 7 ч. 5, ст. 7 ч. 13 п. 1 и ч. 16 п. 1",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/authorities",
+    "check_url": "https://dom.gosuslugi.ru/#!/authorities",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-perechen-organov-vlasti/"
   },
   {
     "id": "zsk-gruppy-riska-cbr",
@@ -238,6 +364,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-ekspluatantov-kommercheskih-perevozok/"
   },
   {
+    "id": "reestr-vozrazheniy-i-zayavleniy-pps",
+    "short_name": "Реестр возражений Палаты по патентным спорам",
+    "name": "Реестр возражений и заявлений, связанных с оспариванием и признанием недействительным предоставления правовой охраны объектам интеллектуальной собственности, подаваемых в Роспатент",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1248 п. 2 и 3",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=VZ",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=VZ",
+    "url": "https://reestr-reestrov.ru/r/reestr-vozrazheniy-i-zayavleniy-pps/"
+  },
+  {
     "id": "reestr-garantiruyushchih-postavshchikov",
     "short_name": "Реестр гарантирующих поставщиков электроэнергии",
     "name": "Федеральный информационный реестр гарантирующих поставщиков и зон их деятельности",
@@ -280,6 +420,90 @@
     "url": "https://reestr-reestrov.ru/r/reestr-diskvalifitsirovannyh-lic/"
   },
   {
+    "id": "reestr-zayavleniy-rasporyazhenie-isklyuchitelnym-pravom",
+    "short_name": "Реестр заявлений о регистрации договоров (отчуждение, лицензия, залог) в Роспатенте",
+    "name": "Реестр заявлений о государственной регистрации распоряжения исключительным правом по договору и заявлений о государственной регистрации перехода права без договора",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1232 п. 2 и 3",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=PRAVO",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=PRAVO",
+    "url": "https://reestr-reestrov.ru/r/reestr-zayavleniy-rasporyazhenie-isklyuchitelnym-pravom/"
+  },
+  {
+    "id": "reestr-zayavok-na-gu-nmpt",
+    "short_name": "Реестр заявок на ГУ и НМПТ (ФИПС)",
+    "name": "Реестр заявок на регистрацию географического указания и наименования места происхождения товара",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1522 и ст. 1524",
+    "year": 2005,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUGPAP",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUGPAP",
+    "url": "https://reestr-reestrov.ru/r/reestr-zayavok-na-gu-nmpt/"
+  },
+  {
+    "id": "reestr-zayavok-na-izobreteniya",
+    "short_name": "Реестр заявок на изобретения (ФИПС)",
+    "name": "Реестр заявок на выдачу патента Российской Федерации на изобретение",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1385",
+    "year": 2007,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUPATAP",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUPATAP",
+    "url": "https://reestr-reestrov.ru/r/reestr-zayavok-na-izobreteniya/"
+  },
+  {
+    "id": "reestr-zayavok-na-poleznye-modeli",
+    "short_name": "Реестр заявок на полезные модели (ФИПС)",
+    "name": "Реестр заявок на выдачу патента Российской Федерации на полезную модель",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1390 и ст. 1394",
+    "year": 2007,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUPMAP",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUPMAP",
+    "url": "https://reestr-reestrov.ru/r/reestr-zayavok-na-poleznye-modeli/"
+  },
+  {
+    "id": "reestr-zayavok-na-promyshlennye-obrazcy",
+    "short_name": "Реестр заявок на промышленные образцы (ФИПС)",
+    "name": "Реестр заявок на выдачу патента Российской Федерации на промышленный образец",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1385 п. 4",
+    "year": 2007,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUDEAP",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUDEAP",
+    "url": "https://reestr-reestrov.ru/r/reestr-zayavok-na-promyshlennye-obrazcy/"
+  },
+  {
+    "id": "reestr-zayavok-na-tovarnye-znaki",
+    "short_name": "Реестр заявок на товарные знаки (ФИПС)",
+    "name": "Реестр заявок на регистрацию товарного знака и знака обслуживания",
+    "agency": "Роспатент",
+    "law": "Гражданский кодекс РФ, часть 4, ст. 1493",
+    "year": 2005,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUTMAP",
+    "check_url": "https://new.fips.ru/registers-web/action?acName=clickRegister&regName=RUTMAP",
+    "url": "https://reestr-reestrov.ru/r/reestr-zayavok-na-tovarnye-znaki/"
+  },
+  {
     "id": "gosreestr-izobreteniy",
     "short_name": "Реестр изобретений",
     "name": "Государственный реестр изобретений Российской Федерации",
@@ -308,6 +532,48 @@
     "url": "https://reestr-reestrov.ru/r/reestr-licenzij/"
   },
   {
+    "id": "reestr-licenzij-mchs-pozharnaya-bezopasnost",
+    "short_name": "Реестр лицензий МЧС (пожарная безопасность)",
+    "name": "Реестр лицензий МЧС России в области пожарной безопасности (тушение пожаров; монтаж, техническое обслуживание и ремонт средств обеспечения пожарной безопасности зданий и сооружений)",
+    "agency": "МЧС России",
+    "law": "99-ФЗ от 04.05.2011 «О лицензировании отдельных видов деятельности», ст. 12 ч. 1 п. 14 и п. 15, ст. 21",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/license",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/license",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenzij-mchs-pozharnaya-bezopasnost/"
+  },
+  {
+    "id": "reestr-licenziy-perevozki-avtobusami",
+    "short_name": "Реестр лицензий на перевозки автобусами",
+    "name": "Реестр лицензий на осуществление деятельности по перевозкам пассажиров и иных лиц автобусами",
+    "agency": "Ространснадзор",
+    "law": "99-ФЗ от 04.05.2011, ст. 12 ч. 1 п. 24",
+    "year": 2019,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenziy-perevozki-avtobusami/"
+  },
+  {
+    "id": "gosreestr-uchastkov-nedr-i-licenziy",
+    "short_name": "Реестр лицензий на пользование недрами (Роснедра, Росгеолфонд)",
+    "name": "Государственный реестр участков недр, предоставленных в пользование, и лицензий на пользование недрами",
+    "agency": "Роснедра",
+    "law": "Закон РФ от 21.02.1992 № 2395-1 «О недрах», ст. 28",
+    "year": 1992,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rfgf.ru/info-resursy/gosudarstvennyj-reestr-uchatkov-nedr/",
+    "check_url": "https://rfgf.ru/ReestrLic/",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-uchastkov-nedr-i-licenziy/"
+  },
+  {
     "id": "reestr-licenzij-roskosmosa",
     "short_name": "Реестр лицензий Роскосмоса",
     "name": "Реестр лицензий на осуществление космической деятельности",
@@ -320,6 +586,20 @@
     "official_url": "https://licenses.roscosmos.ru/",
     "check_url": "https://licenses.roscosmos.ru/",
     "url": "https://reestr-reestrov.ru/r/reestr-licenzij-roskosmosa/"
+  },
+  {
+    "id": "reestr-licenziy-rostransnadzora",
+    "short_name": "Реестр лицензий Ространснадзора",
+    "name": "Реестр лицензий, предоставленных Федеральной службой по надзору в сфере транспорта",
+    "agency": "Ространснадзор",
+    "law": "99-ФЗ от 04.05.2011 «О лицензировании отдельных видов деятельности», ст. 12 ч. 1 пп. 20, 21, 24-29 и ст. 21",
+    "year": 2011,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenziy-rostransnadzora/"
   },
   {
     "id": "svodnyy-reestr-licenziy-upravlenie-mkd",
@@ -364,6 +644,48 @@
     "url": "https://reestr-reestrov.ru/r/reestr-msp-podderzhka/"
   },
   {
+    "id": "reestr-nedobrosovestnyh-vodopolzovateley",
+    "short_name": "Реестр недобросовестных водопользователей (Росводресурсы)",
+    "name": "Реестр недобросовестных водопользователей и участников аукциона на право заключения договора водопользования",
+    "agency": "Росводресурсы",
+    "law": "Водный кодекс РФ, ст. 36.1 и ч. 7 ст. 16",
+    "year": 2020,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://voda.gov.ru/activities/reestr-nedobrosovestnykh-vodopolzovateley-i-uchastnikov-auktsiona-na-pravo-zaklyucheniya-dogovora-vodopolzovaniya/",
+    "check_url": "https://voda.gov.ru/activities/reestr-nedobrosovestnykh-vodopolzovateley-i-uchastnikov-auktsiona-na-pravo-zaklyucheniya-dogovora-vodopolzovaniya/",
+    "url": "https://reestr-reestrov.ru/r/reestr-nedobrosovestnyh-vodopolzovateley/"
+  },
+  {
+    "id": "reestr-nedobrosovestnyh-arendatorov-lesnyh-uchastkov",
+    "short_name": "Реестр недобросовестных лесопользователей (Рослесхоз)",
+    "name": "Реестр недобросовестных арендаторов лесных участков и покупателей лесных насаждений",
+    "agency": "Рослесхоз",
+    "law": "Лесной кодекс РФ от 04.12.2006 № 200-ФЗ, ст. 98.1",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosleshoz.gov.ru/activity/forest-use/registry/",
+    "check_url": "https://rosleshoz.gov.ru/activity/forest-use/registry/",
+    "url": "https://reestr-reestrov.ru/r/reestr-nedobrosovestnyh-arendatorov-lesnyh-uchastkov/"
+  },
+  {
+    "id": "reestr-nedobrosovestnyh-uchastnikov-aukcionov-nedra",
+    "short_name": "Реестр недобросовестных участников аукционов на недра (Роснедра)",
+    "name": "Реестр недобросовестных участников аукционов на право пользования участками недр",
+    "agency": "Роснедра",
+    "law": "Закон РФ от 21.02.1992 № 2395-1 «О недрах», ст. 14.1",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosnedra.gov.ru/activity/reestr-nedobrosovestnykh-uchastnikov/",
+    "check_url": "https://rosnedra.gov.ru/activity/reestr-nedobrosovestnykh-uchastnikov/reestr_nedobrosovestnykh_uchastnikov_auktsionov_na_pravo_polzovaniya_uchastkami_nedr/",
+    "url": "https://reestr-reestrov.ru/r/reestr-nedobrosovestnyh-uchastnikov-aukcionov-nedra/"
+  },
+  {
     "id": "reestr-nedobrosovestnyh-uchastnikov-aukcionov-rybolovstvo",
     "short_name": "Реестр недобросовестных участников рыбных аукционов (Росрыболовство)",
     "name": "Реестр недобросовестных участников аукционов по продаже права на заключение договоров о закреплении доли квоты добычи (вылова) водных биоресурсов, договоров о закреплении и предоставлении доли квоты добычи (вылова) крабов в инвестиционных целях, договоров пользования водными биоресурсами, договоров пользования рыболовным участком",
@@ -406,6 +728,20 @@
     "url": "https://reestr-reestrov.ru/r/gosreestr-poleznyh-modeley/"
   },
   {
+    "id": "gis-zhkh-reestr-postavshchikov-informacii",
+    "short_name": "Реестр поставщиков информации ГИС ЖКХ (УК, ТСЖ, РСО, регоператоры)",
+    "name": "Реестр поставщиков информации государственной информационной системы жилищно-коммунального хозяйства (ГИС ЖКХ)",
+    "agency": "Минстрой России",
+    "law": "209-ФЗ от 21.07.2014 «О государственной информационной системе жилищно-коммунального хозяйства», ст. 6 ч. 1 п. 1, 2 и 16, ст. 7 ч. 3 п. 6",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/organizations",
+    "check_url": "https://dom.gosuslugi.ru/#!/organizations",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-reestr-postavshchikov-informacii/"
+  },
+  {
     "id": "gosreestr-promyshlennyh-obrazcov",
     "short_name": "Реестр промышленных образцов",
     "name": "Государственный реестр промышленных образцов Российской Федерации",
@@ -432,6 +768,20 @@
     "official_url": "https://rosreestr.gov.ru/wps/portal/p/present_new/cc_sro_reestr",
     "check_url": "https://rosreestr.gov.ru/wps/portal/p/present_new/cc_sro_reestr",
     "url": "https://reestr-reestrov.ru/r/reestr-sro-bez-upolnomochennogo-organa/"
+  },
+  {
+    "id": "gosreestr-rabot-po-geologicheskomu-izucheniyu-nedr",
+    "short_name": "Реестр работ по геологическому изучению недр (ГИН, Росгеолфонд)",
+    "name": "Государственный реестр работ по геологическому изучению недр",
+    "agency": "Роснедра",
+    "law": "Закон РФ от 21.02.1992 № 2395-1 «О недрах», ст. 28",
+    "year": 1992,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rfgf.ru/info-resursy/raboty-po-izucheniyu-nedr",
+    "check_url": "https://rfgf.ru/ReestrGin/",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-rabot-po-geologicheskomu-izucheniyu-nedr/"
   },
   {
     "id": "reestr-razreshenij-na-vvod",
@@ -588,6 +938,20 @@
     "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-rybohozyaystvennyy-reestr/"
   },
   {
+    "id": "reestr-specrazresheniy-perevozka-opasnyh-gruzov",
+    "short_name": "Спецразрешения на перевозку опасных грузов",
+    "name": "Реестры специальных разрешений на движение транспортных средств, перевозящих опасные грузы, и на международные автомобильные перевозки опасных грузов",
+    "agency": "Ространснадзор",
+    "law": "257-ФЗ от 08.11.2007 «Об автомобильных дорогах и о дорожной деятельности в Российской Федерации...», ст. 31.3",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/105",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-specrazresheniy-perevozka-opasnyh-gruzov/"
+  },
+  {
     "id": "fedresurs-facts",
     "short_name": "Федресурс (факты деятельности)",
     "name": "Единый федеральный реестр юридически значимых сведений о фактах деятельности юридических лиц, индивидуальных предпринимателей и иных субъектов экономической деятельности",
@@ -728,6 +1092,34 @@
     "url": "https://reestr-reestrov.ru/r/attestovannye-metodiki-izmereniy/"
   },
   {
+    "id": "reestr-deklaraciy-pozharnoy-bezopasnosti",
+    "short_name": "Реестр деклараций пожарной безопасности (МЧС)",
+    "name": "Реестр деклараций пожарной безопасности",
+    "agency": "МЧС России",
+    "law": "123-ФЗ от 22.07.2008 «Технический регламент о требованиях пожарной безопасности», ст. 64",
+    "year": 2008,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/declaration",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/declaration",
+    "url": "https://reestr-reestrov.ru/r/reestr-deklaraciy-pozharnoy-bezopasnosti/"
+  },
+  {
+    "id": "reestr-zaklyucheniy-nor",
+    "short_name": "Реестр заключений НОР (аудит пожарной безопасности, МЧС)",
+    "name": "Реестр учтённых копий заключений о независимой оценке пожарного риска",
+    "agency": "МЧС России",
+    "law": "123-ФЗ от 22.07.2008, ст. 144",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/nor",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/nor",
+    "url": "https://reestr-reestrov.ru/r/reestr-zaklyucheniy-nor/"
+  },
+  {
     "id": "eais-turizm-gostinicy",
     "short_name": "Реестр классифицированных гостиниц",
     "name": "Единый реестр объектов классификации в сфере туристской индустрии (классифицированные гостиницы, горнолыжные трассы, пляжи)",
@@ -742,6 +1134,20 @@
     "url": "https://reestr-reestrov.ru/r/eais-turizm-gostinicy/"
   },
   {
+    "id": "gosudarstvennyy-registr-filmov",
+    "short_name": "Реестр прокатных удостоверений фильмов (Минкультуры)",
+    "name": "Государственный регистр фильмов",
+    "agency": "Минкультуры России",
+    "law": "Федеральный закон от 22.08.1996 № 126-ФЗ «О государственной поддержке кинематографии Российской Федерации», ст. 5.1",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://culture.gov.ru/services/reestr-prokatnykh-udostovereniy/",
+    "check_url": "https://opendata.mkrf.ru/opendata/7705851331-register_movies",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-registr-filmov/"
+  },
+  {
     "id": "reestr-sertifikatov-deklaraciy",
     "short_name": "Реестр сертификатов и деклараций",
     "name": "Единый реестр выданных сертификатов соответствия и зарегистрированных деклараций о соответствии",
@@ -754,6 +1160,34 @@
     "official_url": "https://fsa.gov.ru/",
     "check_url": "https://pub.fsa.gov.ru/rds/certificate",
     "url": "https://reestr-reestrov.ru/r/reestr-sertifikatov-deklaraciy/"
+  },
+  {
+    "id": "reestr-sto-pozharnaya-bezopasnost",
+    "short_name": "Реестр согласованных СТО по пожарной безопасности (МЧС)",
+    "name": "Реестр согласованных стандартов организаций, содержащих требования пожарной безопасности",
+    "agency": "МЧС России",
+    "law": "123-ФЗ от 22.07.2008, ст. 4",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/sto",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/sto",
+    "url": "https://reestr-reestrov.ru/r/reestr-sto-pozharnaya-bezopasnost/"
+  },
+  {
+    "id": "reestr-stu-pozharnaya-bezopasnost",
+    "short_name": "Реестр согласованных СТУ (МЧС)",
+    "name": "Реестр согласованных специальных технических условий (СТУ) в области пожарной безопасности",
+    "agency": "МЧС России",
+    "law": "123-ФЗ от 22.07.2008, ст. 78 ч. 2 и ст. 4",
+    "year": 2011,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/stu",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/stu",
+    "url": "https://reestr-reestrov.ru/r/reestr-stu-pozharnaya-bezopasnost/"
   },
   {
     "id": "utverzhdennye-tipy-so",
@@ -840,6 +1274,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-akkreditacii-obrazovaniya/"
   },
   {
+    "id": "reestr-kursov-podgotovki-voditeley-dopog",
+    "short_name": "Реестр курсов ДОПОГ",
+    "name": "Реестр удостоверений об утверждении курсов подготовки водителей автотранспортных средств, перевозящих опасные грузы",
+    "agency": "Ространснадзор",
+    "law": "Порядок выдачи свидетельств о подготовке водителей автотранспортных средств, перевозящих опасные грузы, и утверждения курсов такой подготовки, приказ Минтранса России от 30.07.2020 № 265",
+    "year": 2021,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/106",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/106",
+    "url": "https://reestr-reestrov.ru/r/reestr-kursov-podgotovki-voditeley-dopog/"
+  },
+  {
     "id": "reestr-licenzij-obrazovanie",
     "short_name": "Реестр лицензий на образование",
     "name": "Сводный реестр лицензий на осуществление образовательной деятельности",
@@ -908,6 +1356,20 @@
     "official_url": "https://bankrot.fedresurs.ru/",
     "check_url": "https://bankrot.fedresurs.ru/",
     "url": "https://reestr-reestrov.ru/r/efrsb/"
+  },
+  {
+    "id": "gis-zhkh-konkursy-kreditnyh-organizaciy-kapremont",
+    "short_name": "Конкурсы по отбору банков для фондов капремонта (ГИС ЖКХ)",
+    "name": "Реестр информации о конкурсах по отбору кредитных организаций (для открытия счетов региональных операторов капитального ремонта) в ГИС ЖКХ",
+    "agency": "Минстрой России",
+    "law": "Жилищный кодекс РФ, ст. 180 ч. 3",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/capital-repair/tenders",
+    "check_url": "https://dom.gosuslugi.ru/#!/capital-repair/tenders",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-konkursy-kreditnyh-organizaciy-kapremont/"
   },
   {
     "id": "reestr-auditorov",
@@ -1820,6 +2282,34 @@
     "url": "https://reestr-reestrov.ru/r/nedeystvitelnye-pasporta/"
   },
   {
+    "id": "reestr-udostovereniy-na-upravlenie-malomernym-sudnom",
+    "short_name": "Реестр удостоверений ГИМС (права на катер)",
+    "name": "Реестр удостоверений на право управления маломерными судами",
+    "agency": "МЧС России",
+    "law": "4-ФЗ от 03.02.2025 «О безопасности людей на водных объектах», ст. 9, 22",
+    "year": 2025,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/gims",
+    "check_url": "https://digital.mchs.gov.ru/gims/passport",
+    "url": "https://reestr-reestrov.ru/r/reestr-udostovereniy-na-upravlenie-malomernym-sudnom/"
+  },
+  {
+    "id": "reestr-ekspertov-gosudarstvennoy-istoriko-kulturnoy-ekspertizy",
+    "short_name": "Аттестованные эксперты ГИКЭ (Минкультуры)",
+    "name": "Список физических лиц, которые могут привлекаться в качестве экспертов по проведению государственной историко-культурной экспертизы",
+    "agency": "Минкультуры России",
+    "law": "73-ФЗ от 25.06.2002 «Об объектах культурного наследия (памятниках истории и культуры) народов РФ», ст. 9, ст. 28-32",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://culture.gov.ru/about/departments/departament_gosudarstvennoy_okhrany_kulturnogo_naslediya/activities/409746/",
+    "check_url": "https://opendata.mkrf.ru/opendata/7705851331-certified_experts",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-gosudarstvennoy-istoriko-kulturnoy-ekspertizy/"
+  },
+  {
     "id": "reestr-kvalifikacionnyh-attestatov-upravlenie-mkd",
     "short_name": "Квалификационные аттестаты управляющих МКД",
     "name": "Реестр квалификационных аттестатов на право управления многоквартирными домами",
@@ -1846,6 +2336,90 @@
     "official_url": "https://minjust.gov.ru/ru/pages/advokaty-rossijskoj-federacii/",
     "check_url": "https://minjust.gov.ru/ru/pages/advokaty-rossijskoj-federacii/",
     "url": "https://reestr-reestrov.ru/r/reestr-advokatov/"
+  },
+  {
+    "id": "reestr-attestovannyh-ocenka-pozharnogo-riska",
+    "short_name": "Реестр аттестованных по оценке пожарного риска (МЧС)",
+    "name": "Реестр аттестованных должностных лиц, осуществляющих деятельность в области оценки пожарного риска",
+    "agency": "МЧС России",
+    "law": "123-ФЗ от 22.07.2008, ст. 144",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/cert/risk",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/cert/risk",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ocenka-pozharnogo-riska/"
+  },
+  {
+    "id": "reestr-attestovannyh-proektirovanie-pb",
+    "short_name": "Реестр аттестованных проектировщиков средств пожарной безопасности (МЧС)",
+    "name": "Реестр аттестованных лиц на право проектирования средств обеспечения пожарной безопасности зданий и сооружений, которые введены в эксплуатацию",
+    "agency": "МЧС России",
+    "law": "ПП РФ от 28.01.2026 № 55 «О порядке проведения аттестации, переаттестации, досрочного прекращения действия квалификационного аттестата и ведения реестра аттестованных лиц на право проектирования средств обеспечения пожарной безопасности зданий и сооружений, которые введены в эксплуатацию»",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/cert/project",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/cert/project",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-proektirovanie-pb/"
+  },
+  {
+    "id": "reestr-attestovannyh-specialistov-restavratorov",
+    "short_name": "Реестр аттестованных реставраторов (Минкультуры)",
+    "name": "Реестр аттестованных специалистов в области сохранения объектов культурного наследия (за исключением спасательных археологических полевых работ), в области реставрации иных культурных ценностей",
+    "agency": "Минкультуры России",
+    "law": "73-ФЗ от 25.06.2002 «Об объектах культурного наследия (памятниках истории и культуры) народов РФ», ст. 45 п. 6 и ст. 9",
+    "year": 2017,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://culture.gov.ru/about/departments/departament_gosudarstvennoy_okhrany_kulturnogo_naslediya/activities/attestation/",
+    "check_url": "https://opendata.mkrf.ru/opendata/7705851331-certified_specialist",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-specialistov-restavratorov/"
+  },
+  {
+    "id": "reestr-ekspertov-mchs-goskontrol",
+    "short_name": "Реестр аттестованных экспертов МЧС",
+    "name": "Реестр экспертов, привлекаемых МЧС России и его территориальными органами к осуществлению экспертизы в целях государственного контроля (надзора)",
+    "agency": "МЧС России",
+    "law": "248-ФЗ от 31.07.2020 «О государственном контроле (надзоре) и муниципальном контроле в Российской Федерации», ст. 33",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://mchs.gov.ru/deyatelnost/attestaciya-i-akkreditaciya/attestaciya-ekspertov-privlekaemyh-mchs-rossii-k-osushchestvleniyu-ekspertizy-v-celyah-gosudarstvennogo-kontrolya-nadzora",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/cert/expert",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-mchs-goskontrol/"
+  },
+  {
+    "id": "reestr-attestovannyh-ekspertov-rosobrnadzora",
+    "short_name": "Реестр аттестованных экспертов Рособрнадзора для проверок",
+    "name": "Реестр аттестованных экспертов, привлекаемых Рособрнадзором к осуществлению экспертизы в целях государственного контроля (надзора)",
+    "agency": "Рособрнадзор",
+    "law": "248-ФЗ от 31.07.2020 «О государственном контроле (надзоре) и муниципальном контроле в РФ», ст. 33 ч. 1",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/gosudarstvennyj-kontrol-nadzor-v-sfere-obrazovaniya-za-deyatelnostyu-organizaczij-osushhestvlyayushhih-obrazovatelnuyu-deyatelnost/attestacziya-ekspertov-privlekaemyh-rosobrnadzorom-k-provedeniyu-meropriyatij-po-kontrolyu-nadzoru/",
+    "check_url": "https://obrnadzor.gov.ru/otkrytoe-pravitelstvo/opendata/7701537808-experts/",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ekspertov-rosobrnadzora/"
+  },
+  {
+    "id": "reestr-attestovannyh-ekspertov-rospatenta",
+    "short_name": "Реестр аттестованных экспертов Роспатента (архив)",
+    "name": "Реестр аттестованных экспертов, привлекаемых Федеральной службой по интеллектуальной собственности к проведению мероприятий по контролю",
+    "agency": "Роспатент",
+    "law": "Приказ Роспатента от 16.03.2017 № 41 об аттестации экспертов по 294-ФЗ",
+    "year": 2017,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rospatent.gov.ru/content/uploadfiles/reestr_exp.pdf",
+    "check_url": "https://rospatent.gov.ru/content/uploadfiles/reestr_exp.pdf",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ekspertov-rospatenta/"
   },
   {
     "id": "reestr-gidov-ekskursovodov",
@@ -2030,6 +2604,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-uvolennyh-v-svyazi-s-utratoy-doveriya/"
   },
   {
+    "id": "reestr-ekspertov-akkreditacionnoy-ekspertizy",
+    "short_name": "Реестр экспертов аккредитации образования (Рособрнадзор)",
+    "name": "Реестр экспертов и экспертных организаций, привлекаемых к аккредитационной экспертизе",
+    "agency": "Рособрнадзор",
+    "law": "273-ФЗ от 29.12.2012 «Об образовании в Российской Федерации», ст. 92 ч. 19",
+    "year": 2013,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/gosudarstvennye-uslugi/gosudarstvennaya-akkreditacziya/akkreditacziya-ekspertov-i-ekspertnyh-organizaczij/",
+    "check_url": "https://isga.obrnadzor.gov.ru/registries/experts/",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-akkreditacionnoy-ekspertizy/"
+  },
+  {
     "id": "reestr-ekspertov-prombezopasnost",
     "short_name": "Реестр экспертов промбезопасности",
     "name": "Реестр экспертов в области промышленной безопасности",
@@ -2042,6 +2630,20 @@
     "official_url": "https://www.gosnadzor.ru/service/list/certification%20experts/index.php",
     "check_url": "https://www.gosnadzor.ru/service/list/certification%20experts/index.php",
     "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-prombezopasnost/"
+  },
+  {
+    "id": "reestr-svidetelstv-dopog-voditeley",
+    "short_name": "Свидетельства ДОПОГ водителей",
+    "name": "Реестр свидетельств о подготовке водителей автотранспортных средств, перевозящих опасные грузы (свидетельств ДОПОГ)",
+    "agency": "Ространснадзор",
+    "law": "Порядок выдачи свидетельств о подготовке водителей автотранспортных средств, перевозящих опасные грузы, и утверждения курсов такой подготовки, приказ Минтранса России от 30.07.2020 № 265",
+    "year": 2021,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rostransnadzor.gov.ru/deyatelnost/113",
+    "check_url": "https://rostransnadzor.gov.ru/deyatelnost/razresitelnye-dokumenty",
+    "url": "https://reestr-reestrov.ru/r/reestr-svidetelstv-dopog-voditeley/"
   },
   {
     "id": "svodnyj-reestr-arbitrazhnyh-upravlyayushchih",
@@ -2072,6 +2674,34 @@
     "url": "https://reestr-reestrov.ru/r/svodnyj-reestr-ocenshchikov/"
   },
   {
+    "id": "berbout-charternyy-reestr",
+    "short_name": "Бербоут-чартерный реестр",
+    "name": "Бербоут-чартерный реестр Российской Федерации",
+    "agency": "Росморречфлот",
+    "law": "КТМ РФ, ст. 33 п. 6, ст. 15 пп. 2-3, ст. 38, ст. 40",
+    "year": 1999,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/napravleniya_deyatelnosti/morskoy_flot/gosudarstvennaya_registratsiya_morskih_sudov_i_prav_na_nih/",
+    "check_url": "https://www.mapm.ru/RegistrationShip/PubServices",
+    "url": "https://reestr-reestrov.ru/r/berbout-charternyy-reestr/"
+  },
+  {
+    "id": "gosudarstvennyy-vodnyy-reestr",
+    "short_name": "ГВР (водный реестр, Росводресурсы)",
+    "name": "Государственный водный реестр",
+    "agency": "Росводресурсы",
+    "law": "Водный кодекс РФ от 03.06.2006 № 74-ФЗ, ст. 31",
+    "year": 2007,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://voda.gov.ru/activities/gosudarstvennyy-vodnyy-reestr/",
+    "check_url": "https://voda.gov.ru/tsifrovoe-agentstvo/gosudarstvennye-uslugi/predostavlenie-svedeniy-iz-gosudarstvennogo-vodnogo-reestra-i-kopiy-dokumentov-soderzhashchikh-svedeniya-vklyuchennye-v-gosudarstvennyy-vodnyy-reestr/",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-vodnyy-reestr/"
+  },
+  {
     "id": "gis-zhkh-reestr-obektov-zhilishchnogo-fonda",
     "short_name": "ГИС ЖКХ (реестр домов)",
     "name": "Государственная информационная система жилищно-коммунального хозяйства (ГИС ЖКХ): реестр объектов жилищного фонда",
@@ -2084,6 +2714,20 @@
     "official_url": "https://dom.gosuslugi.ru/",
     "check_url": "https://dom.gosuslugi.ru/#!/houses",
     "url": "https://reestr-reestrov.ru/r/gis-zhkh-reestr-obektov-zhilishchnogo-fonda/"
+  },
+  {
+    "id": "gosudarstvennyy-lesnoy-reestr",
+    "short_name": "ГЛР (лесной реестр, ФГИС ЛК Рослесхоза)",
+    "name": "Государственный лесной реестр",
+    "agency": "Рослесхоз",
+    "law": "Лесной кодекс РФ от 04.12.2006 № 200-ФЗ, ст. 93.1-93.8",
+    "year": 2007,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosleshoz.gov.ru/activity/forest-register/",
+    "check_url": "https://pub.fgislk.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-lesnoy-reestr/"
   },
   {
     "id": "gosreestr-aerodromov-vertodromov",
@@ -2112,6 +2756,34 @@
     "official_url": "https://favt.gov.ru/dejatelnost-gosudarstvennaa-registracia-vs-i-uchet-bvs-svs-gosreestr-grazhdanskih-vs/",
     "check_url": "https://favt.gov.ru/dejatelnost-gosudarstvennaa-registracia-vs-i-uchet-bvs-svs-gosreestr-grazhdanskih-vs/",
     "url": "https://reestr-reestrov.ru/r/gosreestr-grazhdanskih-vozdushnyh-sudov/"
+  },
+  {
+    "id": "gosudarstvennyy-sudovoy-reestr",
+    "short_name": "Государственный судовой реестр",
+    "name": "Государственный судовой реестр Российской Федерации (морские порты)",
+    "agency": "Росморречфлот",
+    "law": "Кодекс торгового мореплавания РФ, ст. 33, 35, 39, 50",
+    "year": 1999,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/napravleniya_deyatelnosti/morskoy_flot/gosudarstvennaya_registratsiya_morskih_sudov_i_prav_na_nih/",
+    "check_url": "https://www.mapm.ru/RegistrationShip/PubServices",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-sudovoy-reestr/"
+  },
+  {
+    "id": "gis-zhkh-gotovnost-k-otopitelnomu-periodu",
+    "short_name": "Готовность к отопительному сезону (ГИС ЖКХ)",
+    "name": "Реестр информации о готовности к отопительному сезону (периоду) в ГИС ЖКХ",
+    "agency": "Минстрой России",
+    "law": "209-ФЗ от 21.07.2014 «О государственной информационной системе жилищно-коммунального хозяйства», ст. 6 ч. 1 п. 26, ст. 7 ч. 13 п. 3",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/rpg/readiness-passports-search-public",
+    "check_url": "https://dom.gosuslugi.ru/#!/rpg/readiness-passports-search-public",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-gotovnost-k-otopitelnomu-periodu/"
   },
   {
     "id": "egrn",
@@ -2170,6 +2842,20 @@
     "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-katalog-geograficheskih-nazvaniy/"
   },
   {
+    "id": "gis-zhkh-mesta-nakopleniya-tko",
+    "short_name": "Контейнерные площадки ТКО (ГИС ЖКХ)",
+    "name": "Информация о местах накопления твёрдых коммунальных отходов в ГИС ЖКХ",
+    "agency": "Минстрой России",
+    "law": "Приказ Минстроя России от 07.02.2024 № 79/пр, гл. XII п. 7",
+    "year": 2018,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/public-tko/tko-search",
+    "check_url": "https://dom.gosuslugi.ru/#!/public-tko/tko-search",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-mesta-nakopleniya-tko/"
+  },
+  {
     "id": "reestr-upravlyayushchih-organizaciy-opredelennyh-omsu",
     "short_name": "Перечень УО для временного управления МКД",
     "name": "Реестр управляющих организаций и решений об определении управляющих организаций (временное управление МКД)",
@@ -2198,6 +2884,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-transportnyh-sredstv-gibdd/"
   },
   {
+    "id": "gis-zhkh-programmy-kapremonta",
+    "short_name": "Программы капремонта МКД (ГИС ЖКХ)",
+    "name": "Реестр программ капитального ремонта в ГИС ЖКХ (региональные программы, краткосрочные планы, адресные программы)",
+    "agency": "Минстрой России",
+    "law": "209-ФЗ от 21.07.2014 «О государственной информационной системе жилищно-коммунального хозяйства», ст. 6 ч. 1 п. 17, ст. 7 ч. 13 п. 3",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/capital-repair/programs",
+    "check_url": "https://dom.gosuslugi.ru/#!/capital-repair/programs",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-programmy-kapremonta/"
+  },
+  {
     "id": "registr-kosmicheskih-obektov",
     "short_name": "Регистр космических объектов",
     "name": "Регистр космических объектов, запускаемых Российской Федерацией в космическое пространство (национальный регистр запускаемых космических объектов)",
@@ -2224,6 +2924,104 @@
     "official_url": "https://www.reestr-zalogov.ru/",
     "check_url": "https://www.reestr-zalogov.ru/",
     "url": "https://reestr-reestrov.ru/r/reestr-zalogov-dvizhimogo-imushchestva/"
+  },
+  {
+    "id": "reestr-malomernyh-sudov",
+    "short_name": "Реестр маломерных судов ГИМС",
+    "name": "Реестр маломерных судов",
+    "agency": "МЧС России",
+    "law": "4-ФЗ от 03.02.2025 «О безопасности людей на водных объектах», ст. 9, 21, 29",
+    "year": 2025,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/gims",
+    "check_url": "https://digital.mchs.gov.ru/gims/number",
+    "url": "https://reestr-reestrov.ru/r/reestr-malomernyh-sudov/"
+  },
+  {
+    "id": "reestr-spravok-o-fakte-pozhara",
+    "short_name": "Реестр справок о пожаре (МЧС)",
+    "name": "Реестр справок, подтверждающих факт возникновения пожара",
+    "agency": "МЧС России",
+    "law": "69-ФЗ от 21.12.1994 «О пожарной безопасности», ст. 27 ч. 5 и ч. 6",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/fgpn/fire-query",
+    "check_url": "https://digital.mchs.gov.ru/fgpn/fire-query",
+    "url": "https://reestr-reestrov.ru/r/reestr-spravok-o-fakte-pozhara/"
+  },
+  {
+    "id": "reestr-stroyashchihsya-sudov",
+    "short_name": "Реестр строящихся судов",
+    "name": "Реестр строящихся судов (морские порты)",
+    "agency": "Росморречфлот",
+    "law": "КТМ РФ, ст. 33 п. 1 пп. 6, ст. 35 п. 1",
+    "year": 2012,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/napravleniya_deyatelnosti/morskoy_flot/gosudarstvennaya_registratsiya_morskih_sudov_i_prav_na_nih/",
+    "check_url": "https://www.mapm.ru/RegistrationShip/PubServices",
+    "url": "https://reestr-reestrov.ru/r/reestr-stroyashchihsya-sudov/"
+  },
+  {
+    "id": "sudovye-reestry-vnutrennego-vodnogo-transporta",
+    "short_name": "Реестры речных судов (администрации бассейнов)",
+    "name": "Государственный судовой реестр, реестр арендованных иностранных судов и реестр строящихся судов внутреннего водного транспорта",
+    "agency": "Росморречфлот",
+    "law": "Кодекс внутреннего водного транспорта РФ, ст. 16, 17",
+    "year": 2001,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/gosuslugi/perechen_gosudarstvennyih_uslug/registratsiya-sudov-i-prav-na-nikh-v-administratsiyakh-basseinov-vnutrennikh-vodnykh-putei-i-vydacha-svidetel-stva-o-prave-plavaniya-pod-gosudarstvennym-flagom-rossiiskoi-federatsii/",
+    "check_url": "https://morflot.gov.ru/deyatelnost/gosuslugi/perechen_gosudarstvennyih_uslug/registratsiya-sudov-i-prav-na-nikh-v-administratsiyakh-basseinov-vnutrennikh-vodnykh-putei-i-vydacha-svidetel-stva-o-prave-plavaniya-pod-gosudarstvennym-flagom-rossiiskoi-federatsii/",
+    "url": "https://reestr-reestrov.ru/r/sudovye-reestry-vnutrennego-vodnogo-transporta/"
+  },
+  {
+    "id": "gis-zhkh-resheniya-ob-izyatii-zemelnyh-uchastkov",
+    "short_name": "Решения об изъятии участков под домами (ГИС ЖКХ)",
+    "name": "Реестр решений об изъятии для государственных и муниципальных нужд земельных участков, на которых расположены многоквартирные дома, жилые дома (ГИС ЖКХ)",
+    "agency": "Минстрой России",
+    "law": "Приказ Минстроя России от 07.02.2024 № 79/пр, гл. II п. 10 и гл. VII п. 11, срок размещения не позднее 15 дней со дня решения",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://dom.gosuslugi.ru/#!/withdrawal/search",
+    "check_url": "https://dom.gosuslugi.ru/#!/withdrawal/search",
+    "url": "https://reestr-reestrov.ru/r/gis-zhkh-resheniya-ob-izyatii-zemelnyh-uchastkov/"
+  },
+  {
+    "id": "rossiyskiy-mezhdunarodnyy-reestr-sudov",
+    "short_name": "Российский международный реестр судов",
+    "name": "Российский международный реестр судов (РМРС)",
+    "agency": "Росморречфлот",
+    "law": "КТМ РФ, ст. 33 пп. 2, 7, 8, ст. 35, ст. 40",
+    "year": 2006,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/napravleniya_deyatelnosti/morskoy_flot/gosudarstvennaya_registratsiya_morskih_sudov_i_prav_na_nih/",
+    "check_url": "https://www.mapm.ru/RegistrationShip/PubServices",
+    "url": "https://reestr-reestrov.ru/r/rossiyskiy-mezhdunarodnyy-reestr-sudov/"
+  },
+  {
+    "id": "rossiyskiy-otkrytyy-reestr-sudov",
+    "short_name": "Российский открытый реестр судов",
+    "name": "Российский открытый реестр судов",
+    "agency": "Росморречфлот",
+    "law": "КТМ РФ, ст. 33 пп. 9-11, ст. 35, ст. 40",
+    "year": 2018,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/napravleniya_deyatelnosti/morskoy_flot/gosudarstvennaya_registratsiya_morskih_sudov_i_prav_na_nih/",
+    "check_url": "https://www.mapm.ru/RegistrationShip/PubServices",
+    "url": "https://reestr-reestrov.ru/r/rossiyskiy-otkrytyy-reestr-sudov/"
   },
   {
     "id": "elektronnye-pasporta-ts-sep",
@@ -2282,6 +3080,62 @@
     "url": "https://reestr-reestrov.ru/r/fias-gar/"
   },
   {
+    "id": "reestr-attestovannyh-ass",
+    "short_name": "Реестр аттестованных АСС и АСФ (МЧС)",
+    "name": "Реестр аттестованных аварийно-спасательных служб (аварийно-спасательных формирований)",
+    "agency": "МЧС России",
+    "law": "151-ФЗ от 22.08.1995 «Об аварийно-спасательных службах и статусе спасателей», ст. 12",
+    "year": 2011,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.mchs.gov.ru/dsf/assf",
+    "check_url": "https://digital.mchs.gov.ru/dsf/assf",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ass/"
+  },
+  {
+    "id": "reestr-zaklyucheniy-umb-ohrana",
+    "short_name": "Реестр заключений об учебной базе для подготовки охранников (Росгвардия)",
+    "name": "Реестр заключений о соответствии учебно-материальной базы организации, осуществляющей образовательную деятельность, установленным требованиям",
+    "agency": "Росгвардия",
+    "law": "427-ФЗ от 30.11.2024 «О частной охранной деятельности», ст. 14 ч. 5",
+    "year": 2026,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosguard.gov.ru/page/index/proverka-otkrytyx-dannyx-licenzij",
+    "check_url": "https://rosguard.gov.ru/page/index/proverka-otkrytyx-dannyx-licenzij",
+    "url": "https://reestr-reestrov.ru/r/reestr-zaklyucheniy-umb-ohrana/"
+  },
+  {
+    "id": "reestr-licenzij-torgovlya-oruzhiem",
+    "short_name": "Реестр лицензий оружейных магазинов (Росгвардия)",
+    "name": "Реестр лицензий на осуществление деятельности по хранению и торговле гражданским и служебным оружием и основными частями огнестрельного оружия, патронами к нему",
+    "agency": "Росгвардия",
+    "law": "150-ФЗ от 13.12.1996 «Об оружии», ст. 9.1",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rosguard.gov.ru/page/index/proverka-otkrytyx-dannyx-licenzij",
+    "check_url": "https://rosguard.gov.ru/page/index/proverka-otkrytyx-dannyx-licenzij",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenzij-torgovlya-oruzhiem/"
+  },
+  {
+    "id": "reestr-licenzij-chastnaya-ohrana-detektivy",
+    "short_name": "Реестр лицензий ЧОО и частных детективов (Росгвардия)",
+    "name": "Реестры лицензий на осуществление частной охранной деятельности и частной детективной (сыскной) деятельности",
+    "agency": "Росгвардия",
+    "law": "427-ФЗ от 30.11.2024 «О частной охранной деятельности», ст. 16-20, ведение реестра: ст. 20",
+    "year": 1992,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rosguard.gov.ru/page/index/proverka-otkrytyx-dannyx-licenzij",
+    "check_url": "https://rosguard.gov.ru/page/index/proverka-otkrytyx-dannyx-licenzij",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenzij-chastnaya-ohrana-detektivy/"
+  },
+  {
     "id": "reestr-obektov-tek",
     "short_name": "Реестр объектов ТЭК",
     "name": "Реестр объектов топливно-энергетического комплекса",
@@ -2294,5 +3148,19 @@
     "official_url": "https://minenergo.gov.ru/gosuslugi/list-of-public-services/provision-of-information-contained-in-the-register-of-fuel-and-energy-complex-facilities",
     "check_url": "https://www.gosuslugi.ru/",
     "url": "https://reestr-reestrov.ru/r/reestr-obektov-tek/"
+  },
+  {
+    "id": "reestry-licenzij-i-razresheniy-oborot-oruzhiya",
+    "short_name": "Реестры лицензий и разрешений на оружие (Росгвардия)",
+    "name": "Реестры лицензий и разрешений федерального органа исполнительной власти, уполномоченного в сфере оборота оружия",
+    "agency": "Росгвардия",
+    "law": "150-ФЗ от 13.12.1996 «Об оружии», ст. 9.2",
+    "year": 2021,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosguard.gov.ru/ru/page/index/perechen-gosudarstvennyx-uslug-funkcij-okazyvaemyx-osushhestvlyaemyx-podrazdeleniyami-licenzionnorazreshitelnoj-raboty",
+    "check_url": "https://rosguard.gov.ru/ru/page/index/perechen-gosudarstvennyx-uslug-funkcij-okazyvaemyx-osushhestvlyaemyx-podrazdeleniyami-licenzionnorazreshitelnoj-raboty",
+    "url": "https://reestr-reestrov.ru/r/reestry-licenzij-i-razresheniy-oborot-oruzhiya/"
   }
 ]
