@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23185570.svg)](https://doi.org/10.5281/zenodo.23185570)
 
-Паспорт 341 государственных реестров России: название, ведомство, закон, год появления, открытость, есть ли API и открытые данные, официальный сайт и где проверить запись. Источник: каталог [reestr-reestrov.ru](https://reestr-reestrov.ru/?utm_source=github&utm_medium=referral&utm_campaign=gosreestry-data).
+Паспорт 411 государственных реестров России: название, ведомство, закон, год появления, открытость, есть ли API и открытые данные, официальный сайт и где проверить запись. Источник: каталог [reestr-reestrov.ru](https://reestr-reestrov.ru/?utm_source=github&utm_medium=referral&utm_campaign=gosreestry-data).
 
 Здесь нет данных из самих реестров (компаний, людей, лицензий). Это справочник о реестрах.
 
@@ -10,10 +10,10 @@
 
 Посчитаны скриптом из `data/registries.json` при выпуске версии 1.0.1 (2026-10-06), руками не правятся.
 
-- Реестров: **341**, ведомств, которые их ведут: **64**
-- Открыты для всех: 267, частично: 56, закрыты: 18
-- Есть API или платная выгрузка: 25; есть набор открытых данных: 85; ни того ни другого: 234
-- Появились в 2020 году и позже: 81; самый старый: Регистр космических объектов (1978)
+- Реестров: **411**, ведомств, которые их ведут: **67**
+- Открыты для всех: 331, частично: 59, закрыты: 21
+- Есть API или платная выгрузка: 28; есть набор открытых данных: 100; ни того ни другого: 286
+- Появились в 2020 году и позже: 103; самый старый: Регистр космических объектов (1978)
 
 ## Поля (12)
 
@@ -84,7 +84,7 @@ curl -LO https://raw.githubusercontent.com/devladpopov/gosreestry-data/main/data
 
 Откройте [Issue](https://github.com/devladpopov/gosreestry-data/issues/new): укажите `id` реестра, что не так и ссылку на официальный источник. Файлы здесь собираются из основного каталога, поэтому правка попадёт в следующую версию.
 
-В открытую выгрузку не входят 14 политически чувствительных перечней, которые есть на сайте.
+В открытую выгрузку не входят 17 политически чувствительных перечней, которые есть на сайте.
 
 ## Лицензия и цитирование
 
@@ -100,4 +100,4 @@ curl -LO https://raw.githubusercontent.com/devladpopov/gosreestry-data/main/data
 
 ## English
 
-**gosreestry-data** is an open, machine-readable list of 341 Russian state registries: name, agency, legal basis, year, public access level, API and open data availability, official website, where to look up a record, and a link to the registry page on reestr-reestrov.ru (12 fields). It does not contain the registries' own records. Field names are in English, values are in Russian; see [SCHEMA.md](SCHEMA.md). Detailed registry cards, field structures, cross-registry fields and guides are © ООО «Стадика» and available at [reestr-reestrov.ru](https://reestr-reestrov.ru/?utm_source=github&utm_medium=referral&utm_campaign=gosreestry-data); extended exports and API are available under contract. License: CC BY 4.0, attribution with a link to https://reestr-reestrov.ru is required. Report errors via [Issues](https://github.com/devladpopov/gosreestry-data/issues).
+**gosreestry-data** is an open, machine-readable list of 411 Russian state registries: name, agency, legal basis, year, public access level, API and open data availability, official website, where to look up a record, and a link to the registry page on reestr-reestrov.ru (12 fields). It does not contain the registries' own records. Field names are in English, values are in Russian; see [SCHEMA.md](SCHEMA.md). Detailed registry cards, field structures, cross-registry fields and guides are © ООО «Стадика» and available at [reestr-reestrov.ru](https://reestr-reestrov.ru/?utm_source=github&utm_medium=referral&utm_campaign=gosreestry-data); extended exports and API are available under contract. License: CC BY 4.0, attribution with a link to https://reestr-reestrov.ru is required. Report errors via [Issues](https://github.com/devladpopov/gosreestry-data/issues).
