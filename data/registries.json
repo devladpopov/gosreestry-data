@@ -1064,6 +1064,20 @@
     "url": "https://reestr-reestrov.ru/r/svodnyy-reestr-licenziy-upravlenie-mkd/"
   },
   {
+    "id": "reestr-licenzionnyh-dogovorov-selekcionnyh-dostizheniy",
+    "short_name": "Реестр лицензионных договоров Госсорткомиссии (лицензии на сорта)",
+    "name": "Реестр лицензионных договоров на селекционные достижения",
+    "agency": "Минсельхоз России",
+    "law": "Гражданский кодекс РФ, часть четвёртая, ст. 1439 п. 2 пп. 8",
+    "year": 2008,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://gossortrf.ru/registry/reestr-litsenzionnykh-dogovorov/",
+    "check_url": "https://gossortrf.ru/registry/reestr-litsenzionnykh-dogovorov/",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenzionnyh-dogovorov-selekcionnyh-dostizheniy/"
+  },
+  {
     "id": "reestr-mezhdunarodnyh-marshrutov",
     "short_name": "Реестр международных автобусных маршрутов",
     "name": "Реестр международных маршрутов регулярных перевозок",
