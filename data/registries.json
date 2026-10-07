@@ -196,6 +196,20 @@
     "url": "https://reestr-reestrov.ru/r/rafp/"
   },
   {
+    "id": "reestr-ekspluatantov-kommercheskih-perevozok",
+    "short_name": "Реестр авиакомпаний (сертификаты эксплуатанта)",
+    "name": "Реестр эксплуатантов, осуществляющих коммерческие воздушные перевозки (сертификаты эксплуатанта)",
+    "agency": "Росавиация",
+    "law": "Воздушный кодекс РФ, ст. 61 п. 5",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://favt.gov.ru/dejatelnost-letnaya-eksplutacia-reestry-ekspluatantov-kommercheskie-perevozki/",
+    "check_url": "https://favt.gov.ru/dejatelnost-letnaya-eksplutacia-reestry-ekspluatantov-kommercheskie-perevozki/",
+    "url": "https://reestr-reestrov.ru/r/reestr-ekspluatantov-kommercheskih-perevozok/"
+  },
+  {
     "id": "reestr-garantiruyushchih-postavshchikov",
     "short_name": "Реестр гарантирующих поставщиков электроэнергии",
     "name": "Федеральный информационный реестр гарантирующих поставщиков и зон их деятельности",
@@ -266,6 +280,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-licenzij/"
   },
   {
+    "id": "reestr-licenzij-roskosmosa",
+    "short_name": "Реестр лицензий Роскосмоса",
+    "name": "Реестр лицензий на осуществление космической деятельности",
+    "agency": "Роскосмос",
+    "law": "Закон РФ от 20.08.1993 № 5663-1 «О космической деятельности», ст. 9",
+    "year": 1993,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://licenses.roscosmos.ru/",
+    "check_url": "https://licenses.roscosmos.ru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-licenzij-roskosmosa/"
+  },
+  {
     "id": "svodnyy-reestr-licenziy-upravlenie-mkd",
     "short_name": "Реестр лицензий управляющих компаний ЖКХ",
     "name": "Сводный федеральный реестр лицензий на осуществление предпринимательской деятельности по управлению многоквартирными домами",
@@ -306,6 +334,20 @@
     "official_url": "https://rmsp-pp.nalog.ru/",
     "check_url": "https://rmsp-pp.nalog.ru/",
     "url": "https://reestr-reestrov.ru/r/reestr-msp-podderzhka/"
+  },
+  {
+    "id": "reestr-nedobrosovestnyh-uchastnikov-aukcionov-rybolovstvo",
+    "short_name": "Реестр недобросовестных участников рыбных аукционов (Росрыболовство)",
+    "name": "Реестр недобросовестных участников аукционов по продаже права на заключение договоров о закреплении доли квоты добычи (вылова) водных биоресурсов, договоров о закреплении и предоставлении доли квоты добычи (вылова) крабов в инвестиционных целях, договоров пользования водными биоресурсами, договоров пользования рыболовным участком",
+    "agency": "Росрыболовство",
+    "law": "166-ФЗ от 20.12.2004 «О рыболовстве и сохранении водных биологических ресурсов», ст. 38.3",
+    "year": 2024,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://torgi.gov.ru/new/",
+    "check_url": "https://torgi.gov.ru/new/",
+    "url": "https://reestr-reestrov.ru/r/reestr-nedobrosovestnyh-uchastnikov-aukcionov-rybolovstvo/"
   },
   {
     "id": "reestr-nko",
@@ -378,6 +420,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-razreshenij-na-vvod/"
   },
   {
+    "id": "reestr-razresheniy-na-vylov-vbr",
+    "short_name": "Реестр разрешений на вылов (Росрыболовство)",
+    "name": "Реестр разрешений на добычу (вылов) водных биологических ресурсов",
+    "agency": "Росрыболовство",
+    "law": "166-ФЗ от 20.12.2004 «О рыболовстве и сохранении водных биологических ресурсов», ст. 41.2",
+    "year": 2026,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://fish.gov.ru/main-news/2026/02/26/oformlenie-razreshenij-na-vylov-stanovitsya-polnostyu-czifrovym/",
+    "check_url": "https://www.gosuslugi.ru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-razresheniy-na-vylov-vbr/"
+  },
+  {
     "id": "reestr-razreshenij-na-stroitelstvo",
     "short_name": "Реестр разрешений на строительство",
     "name": "Реестр разрешений на строительство объектов капитального строительства",
@@ -390,6 +446,20 @@
     "official_url": "https://minstroyrf.gov.ru/",
     "check_url": "https://minstroyrf.gov.ru/",
     "url": "https://reestr-reestrov.ru/r/reestr-razreshenij-na-stroitelstvo/"
+  },
+  {
+    "id": "reestr-sonko",
+    "short_name": "Реестр СОНКО",
+    "name": "Реестр социально ориентированных некоммерческих организаций",
+    "agency": "Минэкономразвития России",
+    "law": "Постановление Правительства РФ от 30.07.2021 № 1290 «О реестре социально ориентированных некоммерческих организаций»",
+    "year": 2020,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://www.economy.gov.ru/material/departments/d04/sonko/reestr_sonko/",
+    "check_url": "https://data.economy.gov.ru/analytics/sonko/all",
+    "url": "https://reestr-reestrov.ru/r/reestr-sonko/"
   },
   {
     "id": "reestr-socialnyh-predpriyatiy",
@@ -476,6 +546,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-nedobrosovestnyh-postavshchikov/"
   },
   {
+    "id": "gosudarstvennyy-rybohozyaystvennyy-reestr",
+    "short_name": "Рыбохозяйственный реестр (ГРР)",
+    "name": "Государственный рыбохозяйственный реестр",
+    "agency": "Росрыболовство",
+    "law": "166-ФЗ от 20.12.2004 «О рыболовстве и сохранении водных биологических ресурсов», ст. 43",
+    "year": 2008,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://fish.gov.ru/otraslevaya-deyatelnost/organizacziya-rybolovstva/gosudarstvennyj-rybohozyajstvennyj-reestr/",
+    "check_url": "https://www.gosuslugi.ru/612225/1/form",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-rybohozyaystvennyy-reestr/"
+  },
+  {
     "id": "fedresurs-facts",
     "short_name": "Федресурс (факты деятельности)",
     "name": "Единый федеральный реестр юридически значимых сведений о фактах деятельности юридических лиц, индивидуальных предпринимателей и иных субъектов экономической деятельности",
@@ -502,6 +586,20 @@
     "official_url": "https://www.minsport.gov.ru/",
     "check_url": "https://base.garant.ru/55172479/",
     "url": "https://reestr-reestrov.ru/r/vserossiyskiy-reestr-vidov-sporta/"
+  },
+  {
+    "id": "gosudarstvennyy-geraldicheskiy-registr",
+    "short_name": "Геральдический регистр",
+    "name": "Государственный геральдический регистр Российской Федерации",
+    "agency": "Геральдический совет",
+    "law": "Указ Президента РФ от 21.03.1996 № 403 «О Государственном геральдическом регистре Российской Федерации»",
+    "year": 1996,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://kremlin.ru/structure/councils#institution-1036",
+    "check_url": "https://sovet.geraldika.ru/registr/",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-geraldicheskiy-registr/"
   },
   {
     "id": "gosreestr-si",
@@ -1540,6 +1638,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-hosting-provaiderov/"
   },
   {
+    "id": "reestry-licenzij-fsb",
+    "short_name": "Реестры лицензий ФСБ (СКЗИ, СТС)",
+    "name": "Реестры лицензий ФСБ России: шифровальные (криптографические) средства, средства защиты конфиденциальной информации, выявление электронных устройств, специальные технические средства",
+    "agency": "ФСБ России",
+    "law": "99-ФЗ от 04.05.2011 «О лицензировании отдельных видов деятельности», ст. 12 и 21",
+    "year": 2012,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://clsz.fsb.ru/clsz/license.htm",
+    "check_url": "http://clsz.fsb.ru/clsz/license.htm",
+    "url": "https://reestr-reestrov.ru/r/reestry-licenzij-fsb/"
+  },
+  {
     "id": "bank-dannyh-ispolnitelnyh-proizvodstv",
     "short_name": "БДИП ФССП",
     "name": "Банк данных исполнительных производств",
@@ -1946,6 +2058,34 @@
     "url": "https://reestr-reestrov.ru/r/gis-zhkh-reestr-obektov-zhilishchnogo-fonda/"
   },
   {
+    "id": "gosreestr-aerodromov-vertodromov",
+    "short_name": "Госреестр аэродромов гражданской авиации",
+    "name": "Государственный реестр аэродромов и вертодромов гражданской авиации Российской Федерации",
+    "agency": "Росавиация",
+    "law": "ФАП «Правила государственной регистрации аэродромов гражданской авиации и вертодромов гражданской авиации», утв. приказом Минтранса России от 19.08.2015 № 251",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://favt.gov.ru/dejatelnost-ajeroporty-i-ajerodromy-reestr-grajdanskih-ajerodromov-rf/",
+    "check_url": "https://favt.gov.ru/dejatelnost-ajeroporty-i-ajerodromy-reestr-grajdanskih-ajerodromov-rf/",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-aerodromov-vertodromov/"
+  },
+  {
+    "id": "gosreestr-grazhdanskih-vozdushnyh-sudov",
+    "short_name": "Госреестр гражданских воздушных судов (RA-)",
+    "name": "Государственный реестр гражданских воздушных судов Российской Федерации",
+    "agency": "Росавиация",
+    "law": "Воздушный кодекс РФ, ст. 33 п. 1.1 и 2",
+    "year": 1997,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://favt.gov.ru/dejatelnost-gosudarstvennaa-registracia-vs-i-uchet-bvs-svs-gosreestr-grazhdanskih-vs/",
+    "check_url": "https://favt.gov.ru/dejatelnost-gosudarstvennaa-registracia-vs-i-uchet-bvs-svs-gosreestr-grazhdanskih-vs/",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-grazhdanskih-vozdushnyh-sudov/"
+  },
+  {
     "id": "egrn",
     "short_name": "ЕГРН",
     "name": "Единый государственный реестр недвижимости",
@@ -1972,6 +2112,20 @@
     "official_url": "https://culture.gov.ru/activities/information_systems/edinyy_gosudarstvennyy_reestr_obektov_kulturnogo_naslediya/",
     "check_url": "https://opendata.mkrf.ru/opendata/7705851331-egrkn/",
     "url": "https://reestr-reestrov.ru/r/reestr-obektov-kulturnogo-naslediya/"
+  },
+  {
+    "id": "gosudarstvennyy-katalog-geograficheskih-nazvaniy",
+    "short_name": "Каталог географических названий (ГКГН)",
+    "name": "Государственный каталог географических названий",
+    "agency": "Росреестр",
+    "law": "152-ФЗ от 18.12.1997 «О наименованиях географических объектов», ст. 10",
+    "year": 1997,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosreestr.gov.ru/activity/geodeziya-i-kartografiya/naimenovaniya-geograficheskikh-obektov/gosudarstvennyy-katalog-geograficheskikh-nazvaniy/",
+    "check_url": "https://kadastr.ru/services/gkgn/",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-katalog-geograficheskih-nazvaniy/"
   },
   {
     "id": "reestr-upravlyayushchih-organizaciy-opredelennyh-omsu",
@@ -2002,6 +2156,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-transportnyh-sredstv-gibdd/"
   },
   {
+    "id": "registr-kosmicheskih-obektov",
+    "short_name": "Регистр космических объектов",
+    "name": "Регистр космических объектов, запускаемых Российской Федерацией в космическое пространство (национальный регистр запускаемых космических объектов)",
+    "agency": "Роскосмос",
+    "law": "Закон РФ от 20.08.1993 № 5663-1 «О космической деятельности», ст. 17 п. 1",
+    "year": 1978,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.roscosmos.ru/",
+    "check_url": "https://www.unoosa.org/oosa/en/spaceobjectregister/index.html",
+    "url": "https://reestr-reestrov.ru/r/registr-kosmicheskih-obektov/"
+  },
+  {
     "id": "reestr-zalogov-dvizhimogo-imushchestva",
     "short_name": "Реестр залогов движимого имущества",
     "name": "Реестр уведомлений о залоге движимого имущества",
@@ -2028,6 +2196,34 @@
     "official_url": "https://elpts.ru/",
     "check_url": "https://elpts.ru/",
     "url": "https://reestr-reestrov.ru/r/elektronnye-pasporta-ts-sep/"
+  },
+  {
+    "id": "uchet-bvs-svs",
+    "short_name": "Учёт дронов (БВС и СВС) Росавиации",
+    "name": "Государственный учёт беспилотных гражданских воздушных судов с максимальной взлётной массой от 0,15 до 30 кг и сверхлёгких пилотируемых гражданских воздушных судов с массой конструкции 115 кг и менее",
+    "agency": "Росавиация",
+    "law": "Воздушный кодекс РФ, ст. 33 п. 3.2",
+    "year": 2019,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://bvs.favt.ru/",
+    "check_url": "https://bvs.favt.ru/services/verify",
+    "url": "https://reestr-reestrov.ru/r/uchet-bvs-svs/"
+  },
+  {
+    "id": "fgis-usmt",
+    "short_name": "ФГИС УСМТ (тракторы и самоходные машины)",
+    "name": "Федеральная государственная информационная система учёта и регистрации тракторов, самоходных машин и прицепов к ним (ФГИС УСМТ)",
+    "agency": "Минсельхоз России",
+    "law": "297-ФЗ от 02.07.2021 «О самоходных машинах и других видах техники», ст. 6, 7 и 8",
+    "year": 2022,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://usmt-nr.mcx.ru/",
+    "check_url": "https://usmt-nr.mcx.ru/information-request",
+    "url": "https://reestr-reestrov.ru/r/fgis-usmt/"
   },
   {
     "id": "fias-gar",
