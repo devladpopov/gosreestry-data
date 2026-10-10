@@ -1344,6 +1344,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-msp-podderzhka/"
   },
   {
+    "id": "reestr-malyh-tehnologicheskih-kompaniy",
+    "short_name": "Реестр МТК",
+    "name": "Реестр малых технологических компаний",
+    "agency": "Минэкономразвития России",
+    "law": "478-ФЗ от 04.08.2023 «О развитии технологических компаний в Российской Федерации», ст. 5",
+    "year": 2023,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.economy.gov.ru/material/departments/d01/razvitie_tehnologicheskogo_predprinimatelstva/reestr_malyh_tehnologicheskih_kompaniy/",
+    "check_url": "https://www.gosuslugi.ru/614802/1/form",
+    "url": "https://reestr-reestrov.ru/r/reestr-malyh-tehnologicheskih-kompaniy/"
+  },
+  {
     "id": "gosreestr-municipalnyh-obrazovaniy",
     "short_name": "Реестр муниципальных образований (Минюст)",
     "name": "Государственный реестр муниципальных образований Российской Федерации",
@@ -4503,8 +4517,8 @@
     "access": "open",
     "has_api": false,
     "has_opendata": false,
-    "official_url": "http://fp.crc.ru/licenfr/?type=max",
-    "check_url": "http://fp.crc.ru/licenfr/?type=max",
+    "official_url": "https://fp.rospotrebnadzor.ru/licen/",
+    "check_url": "https://fp.rospotrebnadzor.ru/licen/?oper=form",
     "url": "https://reestr-reestrov.ru/r/reestr-licenziy-rospotrebnadzora/"
   },
   {
