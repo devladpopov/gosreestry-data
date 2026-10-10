@@ -2786,6 +2786,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-deklaraciy-pozharnoy-bezopasnosti/"
   },
   {
+    "id": "reestr-dokumentov-stroitelstvo",
+    "short_name": "Реестр документов для застройщика (Стройкомплекс.РФ, Минстрой)",
+    "name": "Реестр документов, сведений, материалов, согласований, предусмотренных нормативными правовыми актами РФ и необходимых застройщику, техническому заказчику для выполнения мероприятий при реализации проекта по строительству объекта капитального строительства",
+    "agency": "Минстрой России",
+    "law": "Градостроительный кодекс РФ, ч. 9 и 10 ст. 5.2",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://xn--e1ahdbdflckekkc.xn--p1ai/rd",
+    "check_url": "https://xn--e1ahdbdflckekkc.xn--p1ai/rd",
+    "url": "https://reestr-reestrov.ru/r/reestr-dokumentov-stroitelstvo/"
+  },
+  {
     "id": "reestr-zaklyucheniy-izmeneniya-konstrukcii-ts",
     "short_name": "Реестр заключений и протоколов о переоборудовании авто (ГБО, тюнинг)",
     "name": "Реестр заключений предварительной технической экспертизы конструкции находящегося в эксплуатации колесного транспортного средства на предмет возможности внесения изменений, протоколов проверки безопасности конструкции находящегося в эксплуатации колесного транспортного средства после внесенных в нее изменений",
@@ -5010,6 +5024,34 @@
     "official_url": "https://cr.minzdrav.gov.ru/",
     "check_url": "https://cr.minzdrav.gov.ru/",
     "url": "https://reestr-reestrov.ru/r/rubrikator-klinicheskih-rekomendaciy/"
+  },
+  {
+    "id": "svedeniya-o-dokumentah-cpp",
+    "short_name": "Сертификаты фармацевтического продукта CPP (Минпромторг)",
+    "name": "Сведения о выданных документах, которые подтверждают, что производство лекарственного препарата для медицинского применения осуществлено в соответствии с требованиями правил надлежащей производственной практики, и подлежат представлению по требованию уполномоченного органа страны ввоза (CPP)",
+    "agency": "Минпромторг России",
+    "law": "Административный регламент выдачи документа CPP, утв. приказом Минпромторга России от 31.12.2015 № 4369, п. 55-63",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://minpromtorg.gov.ru/docs/list/",
+    "check_url": "https://minpromtorg.gov.ru/docs/list/",
+    "url": "https://reestr-reestrov.ru/r/svedeniya-o-dokumentah-cpp/"
+  },
+  {
+    "id": "baza-sertifikatov-gmp-eaes",
+    "short_name": "Сертификаты GMP ЕАЭС (Минпромторг)",
+    "name": "Сведения о выданных, отозванных, приостановленных и прекращённых сертификатах соответствия производителей лекарственных средств требованиям правил надлежащей производственной практики Евразийского экономического союза (база данных сертификатов GMP Минпромторга)",
+    "agency": "Минпромторг России",
+    "law": "Правила проведения фармацевтических инспекций, утв. Решением Совета ЕЭК от 03.11.2016 № 83, п. 25-32",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://minpromtorg.gov.ru/docs/list/",
+    "check_url": "https://minpromtorg.gov.ru/docs/list/",
+    "url": "https://reestr-reestrov.ru/r/baza-sertifikatov-gmp-eaes/"
   },
   {
     "id": "federalnyy-registr-vzn",
@@ -7670,6 +7712,20 @@
     "official_url": "https://www.gosnadzor.ru/service/list/reestr_declar_prombez/",
     "check_url": "https://www.gosnadzor.ru/service/list/reestr_declar_prombez/",
     "url": "https://reestr-reestrov.ru/r/reestr-deklaraciy-prombezopasnosti/"
+  },
+  {
+    "id": "reestr-edinstvennyh-postavshchikov-vvt",
+    "short_name": "Реестр единственных поставщиков ВВТ (ФАС)",
+    "name": "Реестр единственных поставщиков российских вооружения и военной техники",
+    "agency": "ФАС России",
+    "law": "44-ФЗ от 05.04.2013, п. 7 ч. 1 ст. 93",
+    "year": 2008,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://fas.gov.ru/",
+    "check_url": null,
+    "url": "https://reestr-reestrov.ru/r/reestr-edinstvennyh-postavshchikov-vvt/"
   },
   {
     "id": "reestr-zaklyucheniy-umb-ohrana",
