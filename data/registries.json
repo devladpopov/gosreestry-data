@@ -112,6 +112,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-dopuska-k-mezhdunarodnym-avtoperevozkam/"
   },
   {
+    "id": "eais-pokazy-filmov",
+    "short_name": "ЕАИС: кинотеатры и сборы фильмов (Фонд кино)",
+    "name": "Единая федеральная автоматизированная информационная система сведений о показах фильмов в кинозалах (ЕАИС)",
+    "agency": "Минкультуры России",
+    "law": "126-ФЗ от 22.08.1996 «О государственной поддержке кинематографии РФ», ст. 6.1",
+    "year": 2009,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://ekinobilet.fond-kino.ru/",
+    "check_url": "https://ekinobilet.fond-kino.ru/demonstrators/",
+    "url": "https://reestr-reestrov.ru/r/eais-pokazy-filmov/"
+  },
+  {
     "id": "egrz",
     "short_name": "ЕГРЗ (реестр заключений экспертизы проектной документации)",
     "name": "Единый государственный реестр заключений экспертизы проектной документации объектов капитального строительства",
@@ -180,6 +194,20 @@
     "official_url": "https://ervk.gov.ru/public/notices",
     "check_url": "https://ervk.gov.ru/public/notices",
     "url": "https://reestr-reestrov.ru/r/edinyy-reestr-uvedomleniy/"
+  },
+  {
+    "id": "ervk",
+    "short_name": "ЕРВК: виды контроля и категории риска объектов",
+    "name": "Единый реестр видов федерального государственного контроля (надзора), регионального государственного контроля (надзора), муниципального контроля",
+    "agency": "Минэкономразвития России",
+    "law": "248-ФЗ от 31.07.2020 «О государственном контроле (надзоре) и муниципальном контроле в РФ», ст. 18",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://ervk.gov.ru/",
+    "check_url": "https://ervk.gov.ru/objects",
+    "url": "https://reestr-reestrov.ru/r/ervk/"
   },
   {
     "id": "erknm",
@@ -532,6 +560,20 @@
     "url": "https://reestr-reestrov.ru/r/gis-zhkh-perechen-organov-vlasti/"
   },
   {
+    "id": "perechen-tovarov-parallelnogo-importa",
+    "short_name": "Перечень товаров для параллельного импорта (Минпромторг)",
+    "name": "Перечень товаров (групп товаров), в отношении которых не применяются положения статей 1252, 1254, пункта 5 статьи 1286.1, статей 1301, 1311, 1406.1, подпункта 1 статьи 1446, статей 1472, 1515 и 1537 Гражданского кодекса РФ при условии введения указанных товаров в оборот за пределами РФ правообладателями (патентообладателями), а также с их согласия",
+    "agency": "Минпромторг России",
+    "law": "ПП РФ от 29.03.2022 № 506, п. 1",
+    "year": 2022,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://publication.pravo.gov.ru/document/0001202308040119",
+    "check_url": "https://www.consultant.ru/document/cons_doc_LAW_454093/a5a47a00bdace2f7821caadb6ac2ebc38ce319cc/",
+    "url": "https://reestr-reestrov.ru/r/perechen-tovarov-parallelnogo-importa/"
+  },
+  {
     "id": "zsk-gruppy-riska-cbr",
     "short_name": "Платформа ЗСК ЦБ (группа риска по ИНН)",
     "name": "Информация об отнесении юридических лиц и индивидуальных предпринимателей к группе риска совершения подозрительных операций (платформа «Знай своего клиента»)",
@@ -558,6 +600,20 @@
     "official_url": "https://minjust.gov.ru/ru/pages/deponirovannye-pravila-arbitrazha/",
     "check_url": "https://minjust.gov.ru/ru/pages/deponirovannye-pravila-arbitrazha/",
     "url": "https://reestr-reestrov.ru/r/deponirovannye-pravila-arbitrazha-pdau/"
+  },
+  {
+    "id": "perechen-prioritetnyh-investproektov-lesnogo-kompleksa",
+    "short_name": "Приоритетные инвестпроекты в лесном комплексе (Минпромторг)",
+    "name": "Перечень приоритетных инвестиционных проектов в целях развития лесного комплекса",
+    "agency": "Минпромторг России",
+    "law": "Правила утверждения перечня приоритетных инвестиционных проектов в целях развития лесного комплекса, включения в данный перечень и исключения из него таких инвестиционных проектов, утв. ПП РФ от 23.02.2018 № 190",
+    "year": 2019,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://minpromtorg.gov.ru/docs/list/",
+    "check_url": "https://minpromtorg.gov.ru/docs/list/",
+    "url": "https://reestr-reestrov.ru/r/perechen-prioritetnyh-investproektov-lesnogo-kompleksa/"
   },
   {
     "id": "reestr-razresheniy-zarubezhnyh-izdaniy",
@@ -812,6 +868,34 @@
     "url": "https://reestr-reestrov.ru/r/reestr-diskvalifitsirovannyh-lic/"
   },
   {
+    "id": "reestr-dogovorov-kapremont-615",
+    "short_name": "Реестр договоров капремонта по ПП 615 (ЕИС)",
+    "name": "Реестр договоров о проведении капитального ремонта, заключенных заказчиками (Положение, утвержденное ПП РФ № 615)",
+    "agency": "Федеральное казначейство",
+    "law": "Положение о привлечении подрядных организаций, утверждённое ПП РФ от 01.07.2016 № 615, раздел VI, п. 236-253",
+    "year": 2017,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://zakupki.gov.ru/",
+    "check_url": "https://zakupki.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-dogovorov-kapremont-615/"
+  },
+  {
+    "id": "reestr-dokumentov-strategicheskogo-planirovaniya",
+    "short_name": "Реестр документов стратегического планирования (ГАС «Управление»)",
+    "name": "Федеральный государственный реестр документов стратегического планирования",
+    "agency": "Минэкономразвития России",
+    "law": "172-ФЗ от 28.06.2014 «О стратегическом планировании в РФ», ст. 12",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://gasu.gov.ru/",
+    "check_url": "https://gasu.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-dokumentov-strategicheskogo-planirovaniya/"
+  },
+  {
     "id": "reestr-subektov-estestvennyh-monopoliy",
     "short_name": "Реестр естественных монополий (ФАС)",
     "name": "Реестр субъектов естественных монополий, в отношении которых осуществляются государственное регулирование и контроль (надзор)",
@@ -1020,6 +1104,20 @@
     "official_url": "https://minpromtorg.gov.ru/docs/list/",
     "check_url": "https://minpromtorg.gov.ru/docs/list/",
     "url": "https://reestr-reestrov.ru/r/reestr-krupneyshih-proizvoditeley-kts/"
+  },
+  {
+    "id": "reestr-krupneyshih-proizvoditeley-samohodnyh-mashin",
+    "short_name": "Реестр крупнейших производителей самоходной техники для утильсбора (Минпромторг)",
+    "name": "Реестр организаций - крупнейших производителей самоходных машин и (или) прицепов (плательщиков утилизационного сбора в особом порядке)",
+    "agency": "Минпромторг России",
+    "law": "89-ФЗ от 24.06.1998 «Об отходах производства и потребления», ст. 24.1, п. 3, абз. 3",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://minpromtorg.gov.ru/docs/list/",
+    "check_url": "https://minpromtorg.gov.ru/docs/list/",
+    "url": "https://reestr-reestrov.ru/r/reestr-krupneyshih-proizvoditeley-samohodnyh-mashin/"
   },
   {
     "id": "reestr-ker",
@@ -1498,6 +1596,34 @@
     "url": "https://reestr-reestrov.ru/r/gosreestr-onvos/"
   },
   {
+    "id": "reestr-obyazatelnyh-trebovaniy",
+    "short_name": "Реестр обязательных требований (ot.gov.ru)",
+    "name": "Реестр обязательных требований",
+    "agency": "Минцифры России",
+    "law": "247-ФЗ от 31.07.2020 «Об обязательных требованиях в РФ», ст. 10, ч. 2-3",
+    "year": 2021,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://ot.gov.ru/",
+    "check_url": "https://ot.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-obyazatelnyh-trebovaniy/"
+  },
+  {
+    "id": "reestr-organizaciy-infrastruktury-podderzhki-msp",
+    "short_name": "Реестр организаций инфраструктуры поддержки МСП (Корпорация МСП)",
+    "name": "Единый реестр организаций инфраструктуры поддержки субъектов малого и среднего предпринимательства",
+    "agency": "Корпорация МСП",
+    "law": "209-ФЗ от 24.07.2007 «О развитии малого и среднего предпринимательства в РФ», ст. 15.1",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://corpmsp.ru/support/organisations/",
+    "check_url": "https://corpmsp.ru/support/organisations/",
+    "url": "https://reestr-reestrov.ru/r/reestr-organizaciy-infrastruktury-podderzhki-msp/"
+  },
+  {
     "id": "gosreestr-ohranyaemyh-selekcionnyh-dostizheniy",
     "short_name": "Реестр патентов на сорта и породы (охраняемые селекционные достижения)",
     "name": "Государственный реестр охраняемых селекционных достижений",
@@ -1524,6 +1650,20 @@
     "official_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUPM",
     "check_url": "https://fips.ru/registers-web/action?acName=clickRegister&regName=RUPM",
     "url": "https://reestr-reestrov.ru/r/gosreestr-poleznyh-modeley/"
+  },
+  {
+    "id": "reestr-konechnyh-poluchateley-innovacionnoy-podderzhki",
+    "short_name": "Реестр получателей господдержки инноваций (Минэкономразвития)",
+    "name": "Единый реестр конечных получателей государственной поддержки инновационной деятельности",
+    "agency": "Минэкономразвития России",
+    "law": "127-ФЗ от 23.08.1996 «О науке и государственной научно-технической политике», ст. 16.6",
+    "year": 2022,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.economy.gov.ru/",
+    "check_url": null,
+    "url": "https://reestr-reestrov.ru/r/reestr-konechnyh-poluchateley-innovacionnoy-podderzhki/"
   },
   {
     "id": "gis-zhkh-reestr-postavshchikov-informacii",
@@ -2408,6 +2548,20 @@
     "url": "https://reestr-reestrov.ru/r/kodifikator-razrabotchikov-eskd/"
   },
   {
+    "id": "nacionalnaya-chast-reestra-oformleniya-pasportov-ts",
+    "short_name": "Кто вправе оформлять ЭПТС и ЭПСМ в России (Минпромторг)",
+    "name": "Национальная часть единого реестра уполномоченных органов (организаций) государств - членов ЕАЭС и организаций - изготовителей транспортных средств (шасси), самоходных машин и других видов техники, осуществляющих оформление паспортов (электронных паспортов)",
+    "agency": "Минпромторг России",
+    "law": "Порядок формирования и ведения единого реестра уполномоченных органов и организаций-изготовителей, утв. Решением Коллегии ЕЭК от 01.09.2015 № 112, п. 3-5",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://minpromtorg.gov.ru/docs/cdfd491e-02ab-4187-83a7-16e720525883",
+    "check_url": "https://minpromtorg.gov.ru/docs/cdfd491e-02ab-4187-83a7-16e720525883",
+    "url": "https://reestr-reestrov.ru/r/nacionalnaya-chast-reestra-oformleniya-pasportov-ts/"
+  },
+  {
     "id": "fgis-mercury",
     "short_name": "Меркурий / ВетИС",
     "name": "Федеральная государственная информационная система в области ветеринарии (ВетИС), подсистема «Меркурий»",
@@ -2476,6 +2630,48 @@
     "official_url": "https://www.rst.gov.ru/portal/gost/home/activity/compliance/evaluationcompliance/AcknowledgementCorrespondence",
     "check_url": "https://www.rst.gov.ru/portal/gost/home/activity/compliance/evaluationcompliance/AcknowledgementCorrespondence/safetycertificate018",
     "url": "https://reestr-reestrov.ru/r/odobreniya-tipa-ts-rosstandart/"
+  },
+  {
+    "id": "reestr-razresheniy-dobyvanie-krasnaya-kniga",
+    "short_name": "Разрешения на добычу видов из Красной книги (Росприроднадзор)",
+    "name": "Реестр выданных разрешений на добывание объектов животного и растительного мира, занесённых в Красную книгу Российской Федерации",
+    "agency": "Росприроднадзор",
+    "law": "52-ФЗ от 24.04.1995 «О животном мире», ст. 24",
+    "year": 2016,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rpn.gov.ru/activity/services/gu/28121/",
+    "check_url": "https://rpn.gov.ru/activity/services/gu/28121/#registry",
+    "url": "https://reestr-reestrov.ru/r/reestr-razresheniy-dobyvanie-krasnaya-kniga/"
+  },
+  {
+    "id": "gosreestr-razresheniy-akklimatizaciya-pereseleniya",
+    "short_name": "Разрешения на переселение и акклиматизацию животных (Росприроднадзор)",
+    "name": "Государственный реестр разрешений на проведение акклиматизации, переселения или гибридизации охотничьих ресурсов (реестр выданных разрешений на переселение, акклиматизацию и гибридизацию объектов животного мира)",
+    "agency": "Росприроднадзор",
+    "law": "209-ФЗ от 24.07.2009 «Об охоте...», ст. 50",
+    "year": 2010,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rpn.gov.ru/activity/services/gu/28126/",
+    "check_url": "https://rpn.gov.ru/activity/services/gu/28126/#registry",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-razresheniy-akklimatizaciya-pereseleniya/"
+  },
+  {
+    "id": "reestr-razresheniy-soderzhanie-krasnaya-kniga",
+    "short_name": "Разрешения на содержание краснокнижных животных (Росприроднадзор)",
+    "name": "Реестр выданных разрешений на содержание и разведение объектов животного мира, занесённых в Красную книгу Российской Федерации, в полувольных условиях и искусственно созданной среде обитания",
+    "agency": "Росприроднадзор",
+    "law": "52-ФЗ от 24.04.1995 «О животном мире», ст. 26",
+    "year": 2016,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://rpn.gov.ru/activity/services/gu/28122/",
+    "check_url": "https://rpn.gov.ru/activity/services/gu/28122/#registry",
+    "url": "https://reestr-reestrov.ru/r/reestr-razresheniy-soderzhanie-krasnaya-kniga/"
   },
   {
     "id": "federalnyy-registr-pohbv",
@@ -2786,6 +2982,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-rabotodateley-obuchenie-ohrana-truda/"
   },
   {
+    "id": "reestr-razresheniy-oborot-krasnaya-kniga",
+    "short_name": "Реестр разрешений на оборот краснокнижных животных (Росприроднадзор)",
+    "name": "Реестр разрешений на оборот объектов животного мира, занесённых в Красную книгу Российской Федерации",
+    "agency": "Росприроднадзор",
+    "law": "52-ФЗ от 24.04.1995 «О животном мире», ст. 24",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rpn.gov.ru/activity/services/gu/28124/",
+    "check_url": "https://rpn.gov.ru/activity/services/gu/28124/#registry",
+    "url": "https://reestr-reestrov.ru/r/reestr-razresheniy-oborot-krasnaya-kniga/"
+  },
+  {
     "id": "reestr-razresheniy-cites",
     "short_name": "Реестр разрешений СИТЕС (Росприроднадзор)",
     "name": "Реестр разрешений на вывоз из Российской Федерации и ввоз в Российскую Федерацию видов дикой фауны и флоры, находящихся под угрозой исчезновения, их частей или дериватов, подпадающих под действие Конвенции о международной торговле видами дикой фауны и флоры, СИТЕС (CITES)",
@@ -2896,6 +3106,20 @@
     "official_url": "https://www.minsport.gov.ru/activity/government-regulation/sports-federation-registers",
     "check_url": "https://www.minsport.gov.ru/activity/government-regulation/sports-federation-registers",
     "url": "https://reestr-reestrov.ru/r/reestr-sportivnyh-federaciy/"
+  },
+  {
+    "id": "reestr-trebovaniy-stroitelstvo",
+    "short_name": "Реестр требований к строительству (Стройкомплекс.РФ, Минстрой)",
+    "name": "Реестр требований в области инженерных изысканий, проектирования, строительства и сноса",
+    "agency": "Минстрой России",
+    "law": "Градостроительный кодекс РФ, ст. 57.4 и ч. 5 ст. 49",
+    "year": 2024,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://xn--e1ahdbdflckekkc.xn--p1ai/ntdrequirement",
+    "check_url": "https://xn--e1ahdbdflckekkc.xn--p1ai/ntdrequirement",
+    "url": "https://reestr-reestrov.ru/r/reestr-trebovaniy-stroitelstvo/"
   },
   {
     "id": "gosreestr-nacionalnyh-filmov",
@@ -3234,6 +3458,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-priznaniya-inostrannyh-uchenyh-stepeney/"
   },
   {
+    "id": "reestr-primernyh-programm-spo",
+    "short_name": "Реестр примерных программ СПО (ПОП СПО, ИРПО)",
+    "name": "Реестр примерных образовательных программ среднего профессионального образования",
+    "agency": "Минпросвещения России",
+    "law": "273-ФЗ от 29.12.2012 «Об образовании в РФ», ст. 12 ч. 10-11",
+    "year": 2013,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://firpo.ru/home-pop-spo",
+    "check_url": "https://firpo.ru/home-pop-spo",
+    "url": "https://reestr-reestrov.ru/r/reestr-primernyh-programm-spo/"
+  },
+  {
     "id": "reestr-uchenyh-zvaniy",
     "short_name": "Реестр учёных званий (доцент, профессор)",
     "name": "Реестр аттестатов о присвоении учёных званий и сведений о присвоенных учёных званиях",
@@ -3302,6 +3540,48 @@
     "official_url": "https://www.cbr.ru/registries/rcb/",
     "check_url": "https://www.cbr.ru/vfs/finmarkets/files/supervision/list_information_agency.xlsx",
     "url": "https://reestr-reestrov.ru/r/perechen-akkreditovannyh-informacionnyh-agentstv-raskrytie/"
+  },
+  {
+    "id": "perechen-bankov-esia-ebs-115-fz",
+    "short_name": "Банки для регистрации в Госуслугах и сдачи биометрии (п. 5.7 ст. 7 115-ФЗ)",
+    "name": "Перечень банков, соответствующих критериям, установленным пунктом 5.7 статьи 7 Федерального закона № 115-ФЗ (регистрация граждан в ЕСИА и Единой биометрической системе)",
+    "agency": "Банк России",
+    "law": "115-ФЗ от 07.08.2001 «О противодействии легализации (отмыванию) доходов, полученных преступным путем, и финансированию терроризма», п. 5.6 и 5.7 ст. 7",
+    "year": 2018,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.cbr.ru/banking_sector/credit/list_ko/",
+    "check_url": "https://www.cbr.ru/banking_sector/credit/list_ko/",
+    "url": "https://reestr-reestrov.ru/r/perechen-bankov-esia-ebs-115-fz/"
+  },
+  {
+    "id": "reestr-ko-znachimyh-na-rynke-platezhnyh-uslug",
+    "short_name": "Банки, значимые на рынке платёжных услуг (Банк России)",
+    "name": "Реестр кредитных организаций, признанных Банком России значимыми на рынке платежных услуг",
+    "agency": "Банк России",
+    "law": "161-ФЗ от 27.06.2011 «О национальной платежной системе», ч. 2 ст. 30.5",
+    "year": 2014,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.cbr.ru/registries/nps/reestr/",
+    "check_url": "https://www.cbr.ru/registries/nps/reestr/",
+    "url": "https://reestr-reestrov.ru/r/reestr-ko-znachimyh-na-rynke-platezhnyh-uslug/"
+  },
+  {
+    "id": "gosudarstvennaya-dolgovaya-kniga-rf",
+    "short_name": "Госдолговая книга РФ (Минфин)",
+    "name": "Государственная долговая книга Российской Федерации",
+    "agency": "Минфин России",
+    "law": "Бюджетный кодекс РФ, ст. 121",
+    "year": 1998,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://minfin.gov.ru/ru/perfomance/public_debt/",
+    "check_url": null,
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennaya-dolgovaya-kniga-rf/"
   },
   {
     "id": "egrss-strahovshiki",
@@ -3470,6 +3750,20 @@
     "official_url": "https://www.fedsfm.ru/registration-or-deregistration",
     "check_url": "https://www.fedsfm.ru/registration-or-deregistration",
     "url": "https://reestr-reestrov.ru/r/uchet-organizaciy-v-rosfinmonitoringe/"
+  },
+  {
+    "id": "ais-strahovaniya-osago",
+    "short_name": "Проверка полиса ОСАГО в АИС страхования (НСИС)",
+    "name": "Автоматизированная информационная система страхования (АИС страхования): сведения о договорах ОСАГО",
+    "agency": "НСИС",
+    "law": "Закон РФ от 27.11.1992 № 4015-1 «Об организации страхового дела в Российской Федерации», ст. 33.10",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://nsis.ru/products/osago/",
+    "check_url": "https://nsis.ru/products/osago/check/",
+    "url": "https://reestr-reestrov.ru/r/ais-strahovaniya-osago/"
   },
   {
     "id": "reestr-administratorov-indikatorov",
@@ -4214,6 +4508,20 @@
     "url": "https://reestr-reestrov.ru/r/svodnyy-reestr-uchastnikov-byudzhetnogo-processa/"
   },
   {
+    "id": "perechen-sistemno-znachimyh-kreditnyh-organizaciy",
+    "short_name": "Системно значимые банки (СЗКО, Банк России)",
+    "name": "Перечень системно значимых кредитных организаций",
+    "agency": "Банк России",
+    "law": "Указание Банка России от 13.04.2021 № 5778-У «О методике определения системно значимых кредитных организаций», п. 1-4",
+    "year": 2015,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.cbr.ru/banking_sector/credit/SystemBanks.html/",
+    "check_url": "https://www.cbr.ru/banking_sector/credit/SystemBanks.html/",
+    "url": "https://reestr-reestrov.ru/r/perechen-sistemno-znachimyh-kreditnyh-organizaciy/"
+  },
+  {
     "id": "spiski-arbitrazhnyh-upravlyayushchih-bankrotstvo-finorganizaciy",
     "short_name": "Списки арбитражных управляющих и СРО АУ для банкротства финансовых организаций (ЦБ)",
     "name": "Список арбитражных управляющих и Список саморегулируемых организаций арбитражных управляющих для дел о банкротстве финансовых организаций",
@@ -4690,6 +4998,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-ekspertov-kachestva-medpomoshchi/"
   },
   {
+    "id": "rubrikator-klinicheskih-rekomendaciy",
+    "short_name": "Рубрикатор клинических рекомендаций (Минздрав)",
+    "name": "Рубрикатор клинических рекомендаций Министерства здравоохранения Российской Федерации",
+    "agency": "Минздрав России",
+    "law": "323-ФЗ от 21.11.2011 «Об основах охраны здоровья граждан в РФ», ст. 37 ч. 3-13",
+    "year": 2019,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://cr.minzdrav.gov.ru/",
+    "check_url": "https://cr.minzdrav.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/rubrikator-klinicheskih-rekomendaciy/"
+  },
+  {
     "id": "federalnyy-registr-vzn",
     "short_name": "Федеральный регистр высокозатратных нозологий (ВЗН)",
     "name": "Федеральный регистр лиц, больных гемофилией, муковисцидозом, гипофизарным нанизмом, болезнью Гоше, злокачественными новообразованиями лимфоидной, кроветворной и родственных им тканей, рассеянным склерозом, гемолитико-уремическим синдромом, юношеским артритом с системным началом, мукополисахаридозом I, II и VI типов, апластической анемией неуточненной, наследственным дефицитом факторов II (фибриногена), VII (лабильного), X (Стюарта-Прауэра), лиц после трансплантации органов и (или) тканей",
@@ -4788,6 +5110,20 @@
     "url": "https://reestr-reestrov.ru/r/frmo-frmr/"
   },
   {
+    "id": "perechen-akkreditovannyh-organizaciy-biometriya",
+    "short_name": "Аккредитованные организации биометрии (Минцифры, ЕБС)",
+    "name": "Перечень аккредитованных организаций, осуществляющих аутентификацию на основе биометрических персональных данных физических лиц",
+    "agency": "Минцифры России",
+    "law": "572-ФЗ от 29.12.2022 «Об осуществлении идентификации и (или) аутентификации физических лиц с использованием биометрических персональных данных...», ст. 16-17",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://digital.gov.ru/activity/gos-uslugi/akkreditacziya-v-sfere-autentifikaczii-na-osnove-biometricheskih-personalnyh-dannyh",
+    "check_url": "https://ebs.ru/partners/",
+    "url": "https://reestr-reestrov.ru/r/perechen-akkreditovannyh-organizaciy-biometriya/"
+  },
+  {
     "id": "bdpn",
     "short_name": "БДПН (перенесённые мобильные номера)",
     "name": "База данных перенесённых абонентских номеров (БДПН)",
@@ -4884,6 +5220,20 @@
     "official_url": "https://reestr.digital.gov.ru/",
     "check_url": "https://reestr.digital.gov.ru/",
     "url": "https://reestr-reestrov.ru/r/perechen-po-dlya-sobstvennyh-nuzhd/"
+  },
+  {
+    "id": "perechen-polzovateley-ebs",
+    "short_name": "Пользователи Единой биометрической системы (реестр контрагентов ЕБС)",
+    "name": "Перечни организаций, использующих единую биометрическую систему (реестр контрагентов ЕБС)",
+    "agency": "Минцифры России",
+    "law": "572-ФЗ от 29.12.2022",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://ebs.ru/partners/",
+    "check_url": "https://ebs.ru/partners/",
+    "url": "https://reestr-reestrov.ru/r/perechen-polzovateley-ebs/"
   },
   {
     "id": "reestr-akkreditovannyh-it-organizaciy",
@@ -5292,6 +5642,20 @@
     "url": "https://reestr-reestrov.ru/r/reestr-udc/"
   },
   {
+    "id": "reestr-uchastnikov-skolkovo",
+    "short_name": "Реестр участников «Сколково»",
+    "name": "Реестр участников проекта создания и обеспечения функционирования инновационного центра «Сколково»",
+    "agency": "Фонд «Сколково»",
+    "law": "244-ФЗ от 28.09.2010 «Об инновационном центре «Сколково», ст. 8 (функции управляющей компании), ст. 10 (статус участника проекта)",
+    "year": 2010,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://sk.ru/",
+    "check_url": "https://navigator.sk.ru/",
+    "url": "https://reestr-reestrov.ru/r/reestr-uchastnikov-skolkovo/"
+  },
+  {
     "id": "reestr-hosting-provaiderov",
     "short_name": "Реестр хостинг-провайдеров",
     "name": "Реестр провайдеров хостинга",
@@ -5360,6 +5724,20 @@
     "official_url": "http://clsz.fsb.ru/clsz/certification.htm",
     "check_url": "http://clsz.fsb.ru/clsz/certification.htm",
     "url": "https://reestr-reestrov.ru/r/perechen-sertificirovannyh-szi-fsb/"
+  },
+  {
+    "id": "frgu",
+    "short_name": "ФРГУ (реестр госуслуг)",
+    "name": "Федеральная государственная информационная система «Федеральный реестр государственных и муниципальных услуг (функций)»",
+    "agency": "Минцифры России",
+    "law": "210-ФЗ от 27.07.2010 «Об организации предоставления государственных и муниципальных услуг», ст. 11 и 20",
+    "year": 2011,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.gosuslugi.ru/",
+    "check_url": "https://www.gosuslugi.ru/",
+    "url": "https://reestr-reestrov.ru/r/frgu/"
   },
   {
     "id": "bank-dannyh-ispolnitelnyh-proizvodstv",
@@ -5444,6 +5822,20 @@
     "official_url": "https://fsrar.gov.ru/",
     "check_url": "https://fsrar.gov.ru/",
     "url": "https://reestr-reestrov.ru/r/perechen-lic-neudovletvoritelnaya-delovaya-reputaciya-alkogol/"
+  },
+  {
+    "id": "perechen-obshchestvennyh-inspektorov-ekologiya",
+    "short_name": "Перечень общественных экологических инспекторов (Росприроднадзор)",
+    "name": "Перечень общественных инспекторов по охране окружающей среды",
+    "agency": "Росприроднадзор",
+    "law": "7-ФЗ от 10.01.2002 «Об охране окружающей среды», ст. 68.2, пп. 5, 6, 8",
+    "year": 2024,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rpn.gov.ru/activity/public-control/env-protection/inspectors-registry/",
+    "check_url": "https://rpn.gov.ru/activity/public-control/env-protection/inspectors-registry/",
+    "url": "https://reestr-reestrov.ru/r/perechen-obshchestvennyh-inspektorov-ekologiya/"
   },
   {
     "id": "perechen-fizkulturno-sportivnyh-organizaciy-nalogovyy-vychet",
@@ -5586,6 +5978,20 @@
     "url": "https://reestr-reestrov.ru/r/spisok-lic-korennyh-malochislennyh-narodov/"
   },
   {
+    "id": "federalnyy-registr-gsp",
+    "short_name": "Федеральный регистр льготников (право на ЕДВ и набор социальных услуг)",
+    "name": "Федеральный регистр лиц, имеющих право на получение государственной социальной помощи",
+    "agency": "Социальный фонд России",
+    "law": "178-ФЗ от 17.07.1999 «О государственной социальной помощи», ст. 6.4",
+    "year": 2005,
+    "access": "closed",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://sfr.gov.ru/",
+    "check_url": "https://sfr.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/federalnyy-registr-gsp/"
+  },
+  {
     "id": "reestr-akkreditovannyh-organizaciy-patentnyy-poisk",
     "short_name": "Аккредитованные организации для патентного поиска (Роспатент)",
     "name": "Реестр аккредитованных организаций, которые могут проводить предварительный информационный поиск в отношении заявленных изобретений или полезных моделей и предварительную оценку их патентоспособности",
@@ -5640,6 +6046,20 @@
     "official_url": "https://www.cbr.ru/registries/infrastr/",
     "check_url": "https://www.cbr.ru/vfs/finmarkets/files/supervision/list_sro_actuarials.xlsx",
     "url": "https://reestr-reestrov.ru/r/gosreestr-sro-aktuariev/"
+  },
+  {
+    "id": "gosreestr-sro-revizionnyh-soyuzov",
+    "short_name": "Госреестр СРО ревизионных союзов сельхозкооперативов (Минсельхоз)",
+    "name": "Государственный реестр саморегулируемых организаций ревизионных союзов сельскохозяйственных кооперативов",
+    "agency": "Минсельхоз России",
+    "law": "193-ФЗ от 08.12.1995 «О сельскохозяйственной кооперации», ст. 33.1",
+    "year": 2008,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://mcx.gov.ru/docs/federalnyy-gosudarstvennyy-nadzor-za-deyatelnostyu-samoreguliruemykh-organizatsiy-revizionnykh-soyuz/",
+    "check_url": "https://mcx.gov.ru/upload/iblock/e7f/90uk20v2x50dfdsjhwm36qwdn32w6olf.pdf",
+    "url": "https://reestr-reestrov.ru/r/gosreestr-sro-revizionnyh-soyuzov/"
   },
   {
     "id": "reestr-kvalifikacionnyh-attestatov-upravlenie-mkd",
@@ -6622,6 +7042,20 @@
     "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-kadastr-mestorozhdeniy-i-proyavleniy/"
   },
   {
+    "id": "gosudarstvennyy-kadastr-oopt",
+    "short_name": "Кадастр ООПТ (Минприроды)",
+    "name": "Государственный кадастр особо охраняемых природных территорий (федеральный кадастр ООПТ)",
+    "agency": "Минприроды России",
+    "law": "33-ФЗ от 14.03.1995 «Об особо охраняемых природных территориях», ст. 4",
+    "year": 1996,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": true,
+    "official_url": "https://www.mnr.gov.ru/activity/oopt/",
+    "check_url": "https://www.mnr.gov.ru/activity/oopt/",
+    "url": "https://reestr-reestrov.ru/r/gosudarstvennyy-kadastr-oopt/"
+  },
+  {
     "id": "gosudarstvennyy-katalog-geograficheskih-nazvaniy",
     "short_name": "Каталог географических названий (ГКГН)",
     "name": "Государственный каталог географических названий",
@@ -6662,6 +7096,20 @@
     "official_url": "https://minpromtorg.gov.ru/docs/list/",
     "check_url": "https://minpromtorg.gov.ru/docs/list/",
     "url": "https://reestr-reestrov.ru/r/perechen-avtomobiley-ot-10-mln/"
+  },
+  {
+    "id": "perechen-rechnyh-portov",
+    "short_name": "Перечень речных портов (Росморречфлот)",
+    "name": "Перечень речных портов Российской Федерации",
+    "agency": "Росморречфлот",
+    "law": "Кодекс внутреннего водного транспорта РФ, ст. 55.2",
+    "year": 2026,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/napravleniya_deyatelnosti/portyi_rf/",
+    "check_url": "https://morflot.gov.ru/deyatelnost/napravleniya_deyatelnosti/portyi_rf/",
+    "url": "https://reestr-reestrov.ru/r/perechen-rechnyh-portov/"
   },
   {
     "id": "reestr-upravlyayushchih-organizaciy-opredelennyh-omsu",
@@ -6774,6 +7222,34 @@
     "official_url": "https://www.reestr-zalogov.ru/",
     "check_url": "https://www.reestr-zalogov.ru/",
     "url": "https://reestr-reestrov.ru/r/reestr-zalogov-dvizhimogo-imushchestva/"
+  },
+  {
+    "id": "reestr-zoologicheskih-kollekciy",
+    "short_name": "Реестр зоологических коллекций (Росприроднадзор)",
+    "name": "Реестр зоологических коллекций",
+    "agency": "Росприроднадзор",
+    "law": "52-ФЗ от 24.04.1995 «О животном мире», ст. 29",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rpn.gov.ru/activity/services/gu/28178/",
+    "check_url": "https://rpn.gov.ru/activity/services/gu/28178/#registry",
+    "url": "https://reestr-reestrov.ru/r/reestr-zoologicheskih-kollekciy/"
+  },
+  {
+    "id": "reestr-iskusstvennyh-ostrovov-sooruzheniy",
+    "short_name": "Реестр искусственных островов, платформ и сооружений на шельфе (Росприроднадзор)",
+    "name": "Реестр искусственных островов, установок, сооружений и прав на них",
+    "agency": "Росприроднадзор",
+    "law": "187-ФЗ от 30.11.1995 «О континентальном шельфе Российской Федерации»",
+    "year": 2015,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rpn.gov.ru/activity/services/gu/28146/",
+    "check_url": "https://rpn.gov.ru/activity/services/gu/28146/",
+    "url": "https://reestr-reestrov.ru/r/reestr-iskusstvennyh-ostrovov-sooruzheniy/"
   },
   {
     "id": "reestr-knizhnyh-pamyatnikov",
@@ -7028,6 +7504,20 @@
     "url": "https://reestr-reestrov.ru/r/elektronnye-pasporta-ts-sep/"
   },
   {
+    "id": "perechen-uchastkov-nedr-federalnogo-znacheniya",
+    "short_name": "Участки недр федерального значения (Роснедра)",
+    "name": "Перечень участков недр федерального значения",
+    "agency": "Роснедра",
+    "law": "Закон РФ от 21.02.1992 № 2395-1 «О недрах», ст. 2.1",
+    "year": 2008,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosnedra.gov.ru/activity/informatsionnye-resursy-i-programmy/perechni-uchastkov-nedr/",
+    "check_url": "https://rosnedra.gov.ru/activity/informatsionnye-resursy-i-programmy/perechni-uchastkov-nedr/",
+    "url": "https://reestr-reestrov.ru/r/perechen-uchastkov-nedr-federalnogo-znacheniya/"
+  },
+  {
     "id": "uchet-bvs-svs",
     "short_name": "Учёт дронов (БВС и СВС) Росавиации",
     "name": "Государственный учёт беспилотных гражданских воздушных судов с максимальной взлётной массой от 0,15 до 30 кг и сверхлёгких пилотируемых гражданских воздушных судов с массой конструкции 115 кг и менее",
@@ -7068,6 +7558,20 @@
     "official_url": "https://fias.nalog.ru/",
     "check_url": "https://fias.nalog.ru/",
     "url": "https://reestr-reestrov.ru/r/fias-gar/"
+  },
+  {
+    "id": "fond-dannyh-kadastrovoy-ocenki",
+    "short_name": "Фонд данных кадастровой оценки (ФДГКО)",
+    "name": "Фонд данных государственной кадастровой оценки",
+    "agency": "Росреестр",
+    "law": "237-ФЗ от 03.07.2016 «О государственной кадастровой оценке», ст. 23",
+    "year": 2016,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosreestr.gov.ru/activity/kadastrovaya-otsenka/fond-dannykh-gosudarstvennoy-kadastrovoy-otsenki/",
+    "check_url": "https://nspd.gov.ru/cadastral-price/search",
+    "url": "https://reestr-reestrov.ru/r/fond-dannyh-kadastrovoy-ocenki/"
   },
   {
     "id": "centralnyy-fondovyy-katalog",
@@ -7112,6 +7616,20 @@
     "url": "https://reestr-reestrov.ru/r/rossiyskiy-registr-gts/"
   },
   {
+    "id": "reestr-akkreditovannyh-podrazdeleniy-tb",
+    "short_name": "Реестр аккредитованных подразделений транспортной безопасности (ПТБ)",
+    "name": "Реестр аккредитованных подразделений транспортной безопасности",
+    "agency": "Минтранс России",
+    "law": "16-ФЗ от 09.02.2007 «О транспортной безопасности», ст. 12.1",
+    "year": 2014,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/transportnaya_bezopasnost/reestryi/",
+    "check_url": "https://morflot.gov.ru/deyatelnost/transportnaya_bezopasnost/reestryi/",
+    "url": "https://reestr-reestrov.ru/r/reestr-akkreditovannyh-podrazdeleniy-tb/"
+  },
+  {
     "id": "reestr-attestovannyh-ass",
     "short_name": "Реестр аттестованных АСС и АСФ (МЧС)",
     "name": "Реестр аттестованных аварийно-спасательных служб (аварийно-спасательных формирований)",
@@ -7124,6 +7642,20 @@
     "official_url": "https://digital.mchs.gov.ru/dsf/assf",
     "check_url": "https://digital.mchs.gov.ru/dsf/assf",
     "url": "https://reestr-reestrov.ru/r/reestr-attestovannyh-ass/"
+  },
+  {
+    "id": "reestr-attestuyushchih-organizaciy-otb",
+    "short_name": "Реестр аттестующих организаций по транспортной безопасности",
+    "name": "Реестр аттестующих организаций (транспортная безопасность)",
+    "agency": "Минтранс России",
+    "law": "16-ФЗ от 09.02.2007 «О транспортной безопасности», ст. 12.1",
+    "year": 2014,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/transportnaya_bezopasnost/reestryi/",
+    "check_url": "https://morflot.gov.ru/deyatelnost/transportnaya_bezopasnost/reestryi/",
+    "url": "https://reestr-reestrov.ru/r/reestr-attestuyushchih-organizaciy-otb/"
   },
   {
     "id": "reestr-deklaraciy-prombezopasnosti",
@@ -7236,6 +7768,34 @@
     "official_url": "https://www.gosnadzor.ru/service/list/registr_opo/",
     "check_url": "https://www.gosnadzor.ru/service/list/registr_opo/",
     "url": "https://reestr-reestrov.ru/r/gosreestr-opo/"
+  },
+  {
+    "id": "reestr-organov-attestacii-otb",
+    "short_name": "Реестр органов аттестации сил транспортной безопасности",
+    "name": "Реестр органов аттестации (аттестация сил обеспечения транспортной безопасности)",
+    "agency": "Минтранс России",
+    "law": "16-ФЗ от 09.02.2007 «О транспортной безопасности», ст. 12.1",
+    "year": 2014,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://morflot.gov.ru/deyatelnost/transportnaya_bezopasnost/reestryi/",
+    "check_url": "https://morflot.gov.ru/deyatelnost/transportnaya_bezopasnost/reestryi/",
+    "url": "https://reestr-reestrov.ru/r/reestr-organov-attestacii-otb/"
+  },
+  {
+    "id": "reestr-specializirovannyh-organizaciy-otb",
+    "short_name": "Реестр специализированных организаций по транспортной безопасности (оценка уязвимости)",
+    "name": "Реестр аккредитованных юридических лиц в качестве специализированных организаций в области обеспечения транспортной безопасности",
+    "agency": "Минтранс России",
+    "law": "16-ФЗ от 09.02.2007 «О транспортной безопасности»",
+    "year": 2023,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://rosavtodor.gov.ru/about/upravlenie-fda/upravlenie-transportnoy-bezopasnosti/reestr-spetsializirovannykh-organizatsiy/reestr-akkreditovannyh-yuridicheskih-lic-v-kachestve-specializirovannyh-organizacij-s-01092023",
+    "check_url": "https://rosavtodor.gov.ru/about/upravlenie-fda/upravlenie-transportnoy-bezopasnosti/reestr-spetsializirovannykh-organizatsiy/reestr-akkreditovannyh-yuridicheskih-lic-v-kachestve-specializirovannyh-organizacij-s-01092023",
+    "url": "https://reestr-reestrov.ru/r/reestr-specializirovannyh-organizaciy-otb/"
   },
   {
     "id": "reestry-licenzij-i-razresheniy-oborot-oruzhiya",
