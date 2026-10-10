@@ -2366,6 +2366,20 @@
     "url": "https://reestr-reestrov.ru/r/perechen-politicheskih-partiy/"
   },
   {
+    "id": "spot-fns",
+    "short_name": "СПОТ: ДОПП и QR-код на ввоз из ЕАЭС (ФНС)",
+    "name": "Национальная система подтверждения ожидания поставки товаров (СПОТ): документы о предстоящей поставке товаров (ДОПП)",
+    "agency": "ФНС России",
+    "law": "101-ФЗ от 17.04.2026 «О национальной системе подтверждения ожидания поставки товаров...», ст. 3, 6, 7, 10",
+    "year": 2026,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://www.nalog.gov.ru/rn77/related_activities/spot/",
+    "check_url": "https://qrdopp.nalog.gov.ru/",
+    "url": "https://reestr-reestrov.ru/r/spot-fns/"
+  },
+  {
     "id": "trois-fts",
     "short_name": "ТРОИС ФТС (таможенный реестр товарных знаков и объектов ИС)",
     "name": "Таможенный реестр объектов интеллектуальной собственности",
@@ -2518,6 +2532,20 @@
     "official_url": "https://fgis.gost.ru/fundmetrology/registry/12",
     "check_url": "https://fgis.gost.ru/fundmetrology/registry/12",
     "url": "https://reestr-reestrov.ru/r/gosudarstvennye-pervichnye-etalony/"
+  },
+  {
+    "id": "egais",
+    "short_name": "ЕГАИС (учёт алкоголя, Росалкогольтабакконтроль)",
+    "name": "Единая государственная автоматизированная информационная система учёта объёма производства и оборота этилового спирта, алкогольной и спиртосодержащей продукции (ЕГАИС)",
+    "agency": "Росалкогольтабакконтроль",
+    "law": "171-ФЗ от 22.11.1995, ст. 14 п. 2",
+    "year": 2005,
+    "access": "partial",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "https://egais.ru/",
+    "check_url": "https://public.fsrar.ru/checkmark",
+    "url": "https://reestr-reestrov.ru/r/egais/"
   },
   {
     "id": "kadastr-grazhdanskogo-i-sluzhebnogo-oruzhiya",
