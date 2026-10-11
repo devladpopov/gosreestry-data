@@ -4704,6 +4704,34 @@
     "url": "https://reestr-reestrov.ru/r/nacionalnyy-radiacionno-epidemiologicheskiy-registr/"
   },
   {
+    "id": "perechen-narkosoderzhashchih-rasteniy",
+    "short_name": "Перечень наркосодержащих растений (ПП № 934)",
+    "name": "Перечень растений, содержащих наркотические средства или психотропные вещества либо их прекурсоры и подлежащих контролю в Российской Федерации",
+    "agency": "Правительство РФ",
+    "law": "3-ФЗ от 08.01.1998, ст. 2.1",
+    "year": 2010,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://government.ru/docs/all/75006/",
+    "check_url": "https://base.garant.ru/12180870/",
+    "url": "https://reestr-reestrov.ru/r/perechen-narkosoderzhashchih-rasteniy/"
+  },
+  {
+    "id": "perechen-narkoticheskih-sredstv",
+    "short_name": "Перечень наркотиков, психотропов и прекурсоров (ПП № 681)",
+    "name": "Перечень наркотических средств, психотропных веществ и их прекурсоров, подлежащих контролю в Российской Федерации",
+    "agency": "Правительство РФ",
+    "law": "3-ФЗ от 08.01.1998 «О наркотических средствах и психотропных веществах», ст. 2",
+    "year": 1998,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://government.ru/docs/all/27467/",
+    "check_url": "https://www.consultant.ru/document/cons_doc_LAW_19243/",
+    "url": "https://reestr-reestrov.ru/r/perechen-narkoticheskih-sredstv/"
+  },
+  {
     "id": "reestr-razresheniy-vvod-v-oborot-ilp",
     "short_name": "Разрешения на ввод в оборот вакцин и иммунобиологических препаратов",
     "name": "Реестр разрешений на ввод в гражданский оборот иммунобиологических лекарственных препаратов",
@@ -5080,6 +5108,20 @@
     "official_url": "https://minpromtorg.gov.ru/docs/list/",
     "check_url": "https://minpromtorg.gov.ru/docs/list/",
     "url": "https://reestr-reestrov.ru/r/baza-sertifikatov-gmp-eaes/"
+  },
+  {
+    "id": "spiski-silnodeystvuyushchih-yadovityh-veshchestv",
+    "short_name": "Списки сильнодействующих и ядовитых веществ (ПП № 964)",
+    "name": "Списки сильнодействующих и ядовитых веществ для целей статьи 234 и других статей Уголовного кодекса Российской Федерации, а также крупный размер сильнодействующих веществ для целей статьи 234 Уголовного кодекса Российской Федерации",
+    "agency": "Правительство РФ",
+    "law": "Уголовный кодекс РФ, примечание к ст. 234",
+    "year": 2007,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://government.ru/docs/all/62561/",
+    "check_url": "https://www.consultant.ru/document/cons_doc_LAW_74146/",
+    "url": "https://reestr-reestrov.ru/r/spiski-silnodeystvuyushchih-yadovityh-veshchestv/"
   },
   {
     "id": "federalnyy-registr-vzn",
@@ -7166,6 +7208,34 @@
     "official_url": "https://minpromtorg.gov.ru/docs/list/",
     "check_url": "https://minpromtorg.gov.ru/docs/list/",
     "url": "https://reestr-reestrov.ru/r/perechen-avtomobiley-ot-10-mln/"
+  },
+  {
+    "id": "perechen-invazivnyh-rasteniy-lesa",
+    "short_name": "Перечень инвазивных растений для лесов (Рослесхоз)",
+    "name": "Перечень опасных видов инвазивных (чужеродных) растений, которые не отнесены к карантинным объектам, способны нанести вред лесам как экологической системе и лесным ресурсам и в отношении которых должны приниматься меры по их выявлению, предупреждению их распространения и их уничтожению",
+    "agency": "Рослесхоз",
+    "law": "Лесной кодекс РФ, ст. 60.1 ч. 2.1",
+    "year": 2026,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://publication.pravo.gov.ru/document/0001202604020015",
+    "check_url": "https://www.garant.ru/products/ipo/prime/doc/413906563/",
+    "url": "https://reestr-reestrov.ru/r/perechen-invazivnyh-rasteniy-lesa/"
+  },
+  {
+    "id": "perechen-invazivnyh-rasteniy-oopt",
+    "short_name": "Перечень инвазивных растений для федеральных ООПТ (Минприроды)",
+    "name": "Перечень опасных видов инвазивных (чужеродных) растений, которые не отнесены к карантинным объектам и в отношении которых должны приниматься меры по их выявлению, предотвращению их распространения и их уничтожению на особо охраняемых природных территориях федерального значения",
+    "agency": "Минприроды России",
+    "law": "33-ФЗ от 14.03.1995 «Об особо охраняемых природных территориях», ст. 35.1 п. 2",
+    "year": 2026,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://publication.pravo.gov.ru/document/0001202602270013",
+    "check_url": "https://www.consultant.ru/document/cons_doc_LAW_527663/",
+    "url": "https://reestr-reestrov.ru/r/perechen-invazivnyh-rasteniy-oopt/"
   },
   {
     "id": "perechen-rechnyh-portov",
