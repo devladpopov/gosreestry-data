@@ -4704,6 +4704,20 @@
     "url": "https://reestr-reestrov.ru/r/nacionalnyy-radiacionno-epidemiologicheskiy-registr/"
   },
   {
+    "id": "perechen-zhnvlp",
+    "short_name": "Перечень ЖНВЛП (Правительство РФ)",
+    "name": "Перечень жизненно необходимых и важнейших лекарственных препаратов для медицинского применения",
+    "agency": "Минздрав России",
+    "law": "61-ФЗ от 12.04.2010 «Об обращении лекарственных средств», ст. 60 ч. 1 п. 1",
+    "year": 2010,
+    "access": "open",
+    "has_api": false,
+    "has_opendata": false,
+    "official_url": "http://government.ru/docs/57389/",
+    "check_url": "https://www.consultant.ru/document/cons_doc_LAW_522588/d9d30e8e9d949deef48df3ed6478e50d581fb9c9/",
+    "url": "https://reestr-reestrov.ru/r/perechen-zhnvlp/"
+  },
+  {
     "id": "perechen-narkosoderzhashchih-rasteniy",
     "short_name": "Перечень наркосодержащих растений (ПП № 934)",
     "name": "Перечень растений, содержащих наркотические средства или психотропные вещества либо их прекурсоры и подлежащих контролю в Российской Федерации",
